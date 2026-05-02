@@ -1,4 +1,3 @@
-// Generated from Starfield Fandom wiki system pages. Missing wiki fields are handled as Unknown in app.js.
 window.TIMEPILOT_SYSTEM_DETAILS = {
   "Alpha Andraste": {
     "faction": "None",
