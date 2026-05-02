@@ -9,8 +9,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "5.77",
     "planets": "6",
-    "moons": "1",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste"
+    "moons": "1"
   },
   "Beta Andraste": {
     "faction": "None",
@@ -21,8 +20,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "309157",
     "magnitude": "11.60",
     "planets": "1",
-    "moons": "4",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Andraste"
+    "moons": "4"
   },
   "Carinae": {
     "faction": "None",
@@ -33,14 +31,12 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "459589",
     "magnitude": "8.63",
     "planets": "5",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Carinae"
+    "moons": "9"
   },
   "Eta Cassiopeia": {
     "faction": "None",
     "planets": "4",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Eta_Cassiopeia"
+    "moons": "5"
   },
   "Piazzi": {
     "spectralClass": "K5",
@@ -50,15 +46,13 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "515262",
     "magnitude": "7.48",
     "planets": "7",
-    "moons": "14",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi"
+    "moons": "14"
   },
   "Bessel": {
     "faction": "none",
     "magnitude": "TBD",
     "planets": "3",
-    "moons": "2",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bessel"
+    "moons": "2"
   },
   "Altair": {
     "faction": "None",
@@ -69,8 +63,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1251900",
     "magnitude": "2.21",
     "planets": "5",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Altair"
+    "moons": "8"
   },
   "Van Maanen's Star": {
     "spectralClass": "WD",
@@ -80,8 +73,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "9609",
     "magnitude": "14.22",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Van_Maanen's_Star"
+    "moons": "0"
   },
   "Sol": {
     "faction": "United Colonies",
@@ -91,8 +83,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "695800",
     "magnitude": "4.83",
     "planets": "9",
-    "moons": "21",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Sol"
+    "moons": "21"
   },
   "Procyon A": {
     "spectralClass": "F5",
@@ -102,8 +93,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1424384",
     "magnitude": "2.67",
     "planets": "6",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_A"
+    "moons": "9"
   },
   "Procyon B": {
     "spectralClass": "WD",
@@ -113,8 +103,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "8592",
     "magnitude": "12.98",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_B"
+    "moons": "0"
   },
   "Luyten's Star": {
     "faction": "None",
@@ -125,8 +114,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "243721",
     "magnitude": "11.93",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Luyten's_Star"
+    "moons": "0"
   },
   "Tau Ceti": {
     "faction": "None",
@@ -137,8 +125,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "552203",
     "magnitude": "5.67",
     "planets": "9",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Tau_Ceti"
+    "moons": "9"
   },
   "Sirius": {
     "faction": "None",
@@ -149,8 +136,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1190001",
     "magnitude": "1.45",
     "planets": "3",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Sirius"
+    "moons": "3"
   },
   "The Pup": {
     "faction": "None",
@@ -161,8 +147,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "5564",
     "magnitude": "11.18",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/The_Pup"
+    "moons": "0"
   },
   "Toliman": {
     "faction": "None",
@@ -173,8 +158,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "601086",
     "magnitude": "5.73",
     "planets": "2",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Toliman"
+    "moons": "3"
   },
   "Alpha Centauri": {
     "faction": "United Colonies",
@@ -185,8 +169,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "862420",
     "magnitude": "4.37",
     "planets": "4",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Centauri"
+    "moons": "8"
   },
   "Wolf": {
     "faction": "United Colonies",
@@ -197,8 +180,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "111415",
     "magnitude": "16.55",
     "planets": "2",
-    "moons": "1",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Wolf"
+    "moons": "1"
   },
   "Barnard's Star": {
     "spectralClass": "M4",
@@ -206,8 +188,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "temperature": "3130K",
     "mass": "0.14SM",
     "radius": "136484",
-    "magnitude": "13.23",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Barnard's_Star"
+    "magnitude": "13.23"
   },
   "Kapteyn's Star": {
     "spectralClass": "M0",
@@ -217,8 +198,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "202636",
     "magnitude": "10.89",
     "planets": "2",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Kapteyn's_Star"
+    "moons": "0"
   },
   "Eridani": {
     "spectralClass": "G8",
@@ -228,8 +208,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "639860",
     "magnitude": "5.35",
     "planets": "9",
-    "moons": "14",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Eridani"
+    "moons": "14"
   },
   "Delta Pavonis": {
     "spectralClass": "G5",
@@ -237,8 +216,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "temperature": "5570K",
     "mass": "0.99SM",
     "radius": "833527",
-    "magnitude": "4.61",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Pavonis"
+    "magnitude": "4.61"
   },
   "Sakharov": {
     "faction": "None",
@@ -249,8 +227,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "352327",
     "magnitude": "11.09",
     "planets": "1",
-    "moons": "1",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Sakharov"
+    "moons": "1"
   },
   "Oborum Prime": {
     "spectralClass": "K3",
@@ -260,8 +237,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "529223",
     "magnitude": "7.07",
     "planets": "4",
-    "moons": "6",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_Prime"
+    "moons": "6"
   },
   "Oborum Proxima": {
     "faction": "None",
@@ -272,8 +248,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "292465",
     "magnitude": "11.02",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_Proxima"
+    "moons": "0"
   },
   "Guniibuu": {
     "spectralClass": "K2",
@@ -281,8 +256,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "temperature": "4870K",
     "mass": "0.74SM",
     "radius": "561217",
-    "magnitude": "5.46",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu"
+    "magnitude": "5.46"
   },
   "Indum": {
     "faction": "None",
@@ -293,8 +267,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "576536",
     "magnitude": "6.18",
     "planets": "5",
-    "moons": "10",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Indum"
+    "moons": "10"
   },
   "Linnaeus": {
     "spectralClass": "G5",
@@ -304,14 +277,12 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "5.26",
     "planets": "7",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus"
+    "moons": "5"
   },
   "Aranae": {
     "faction": "None",
     "planets": "5",
-    "moons": "6",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Aranae"
+    "moons": "6"
   },
   "Olympus": {
     "faction": "None",
@@ -322,8 +293,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "530580",
     "magnitude": "6.89",
     "planets": "6",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Olympus"
+    "moons": "7"
   },
   "Vega": {
     "faction": "None",
@@ -334,8 +304,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1642771",
     "magnitude": "0.60",
     "planets": "2",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Vega"
+    "moons": "8"
   },
   "Valo": {
     "faction": "None",
@@ -346,8 +315,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "515262",
     "magnitude": "7.47",
     "planets": "5",
-    "moons": "6",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Valo"
+    "moons": "6"
   },
   "Narion": {
     "faction": "Freestar Collective",
@@ -358,8 +326,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "591855",
     "magnitude": "5.49",
     "planets": "7",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Narion"
+    "moons": "8"
   },
   "Andromas": {
     "faction": "None",
@@ -370,8 +337,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "3.82",
     "planets": "6",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Andromas"
+    "moons": "5"
   },
   "Nikola": {
     "faction": "None",
@@ -382,8 +348,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "11.12",
     "planets": "10",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Nikola"
+    "moons": "9"
   },
   "Lunara": {
     "spectralClass": "G4",
@@ -393,8 +358,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "663805",
     "magnitude": "11.4",
     "planets": "8",
-    "moons": "17",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Lunara"
+    "moons": "17"
   },
   "Cheyenne": {
     "faction": "Freestar Collective",
@@ -405,8 +369,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.40",
     "planets": "9",
-    "moons": "26",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Cheyenne"
+    "moons": "26"
   },
   "Maheo": {
     "faction": "None",
@@ -417,8 +380,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "530580",
     "magnitude": "7.84",
     "planets": "7",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Maheo"
+    "moons": "9"
   },
   "Leviathan": {
     "faction": "None",
@@ -429,8 +391,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "4101364",
     "magnitude": "1.88",
     "planets": "7",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Leviathan"
+    "moons": "3"
   },
   "Groombridge": {
     "spectralClass": "G8",
@@ -440,8 +401,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "474212",
     "magnitude": "6.62",
     "planets": "8",
-    "moons": "18",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Groombridge"
+    "moons": "18"
   },
   "McClure": {
     "faction": "None",
@@ -452,8 +412,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "591855",
     "magnitude": "5.23",
     "planets": "3",
-    "moons": "4",
-    "sourceUrl": "https://starfield.fandom.com/wiki/McClure"
+    "moons": "4"
   },
   "Bradbury": {
     "faction": "None",
@@ -464,8 +423,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "752004",
     "magnitude": "2.66",
     "planets": "5",
-    "moons": "4",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bradbury"
+    "moons": "4"
   },
   "Kumasi": {
     "spectralClass": "GB",
@@ -475,8 +433,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.39",
     "planets": "9",
-    "moons": "19",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi"
+    "moons": "19"
   },
   "Ursae Minoris": {
     "faction": "None",
@@ -487,8 +444,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "640596",
     "magnitude": "4.71",
     "planets": "3",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Ursae_Minoris"
+    "moons": "3"
   },
   "Ursae Majoris": {
     "faction": "None",
@@ -499,8 +455,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "710226",
     "magnitude": "4.24",
     "planets": "3",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Ursae_Majoris"
+    "moons": "3"
   },
   "Rasalhague": {
     "spectralClass": "A5",
@@ -510,13 +465,11 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1808300",
     "magnitude": "1.21",
     "planets": "4",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Rasalhague"
+    "moons": "3"
   },
   "Nemeria": {
     "planets": "4 (at least)",
-    "moons": "1 (at least)",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Nemeria"
+    "moons": "1 (at least)"
   },
   "Newton": {
     "faction": "None",
@@ -527,8 +480,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "814671",
     "magnitude": "2.77",
     "planets": "6",
-    "moons": "6",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Newton"
+    "moons": "6"
   },
   "Bardeen": {
     "spectralClass": "G8",
@@ -538,8 +490,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.12",
     "planets": "7",
-    "moons": "13",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bardeen"
+    "moons": "13"
   },
   "Sagan": {
     "faction": "None",
@@ -550,12 +501,10 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "352327",
     "magnitude": "10.18",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Sagan"
+    "moons": "0"
   },
   "Arcturus": {
-    "planets": "3 (at least)",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Arcturus"
+    "planets": "3 (at least)"
   },
   "Muphrid": {
     "faction": "None",
@@ -566,8 +515,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "731114",
     "magnitude": "2.39",
     "planets": "8",
-    "moons": "21",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Muphrid"
+    "moons": "21"
   },
   "Kryx": {
     "faction": "Crimson Fleet",
@@ -578,8 +526,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "731114",
     "magnitude": "4.00",
     "planets": "1",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Kryx"
+    "moons": "7"
   },
   "Alpha Marae": {
     "faction": "None",
@@ -590,8 +537,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1182350",
     "magnitude": "4.24",
     "planets": "5",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Marae"
+    "moons": "7"
   },
   "Beta Marae": {
     "faction": "None",
@@ -602,8 +548,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "15318600",
     "magnitude": "5.11",
     "planets": "6",
-    "moons": "15",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Marae"
+    "moons": "15"
   },
   "Schrodinger": {
     "faction": "None",
@@ -614,8 +559,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1363878",
     "magnitude": "2.75",
     "planets": "8",
-    "moons": "14",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Schrodinger"
+    "moons": "14"
   },
   "Tidacha": {
     "spectralClass": "G8",
@@ -625,8 +569,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.46",
     "planets": "1",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Tidacha"
+    "moons": "3"
   },
   "Denebola": {
     "faction": "Freestar Collective",
@@ -637,8 +580,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1201824",
     "magnitude": "1.93",
     "planets": "3",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Denebola"
+    "moons": "5"
   },
   "Copernicus": {
     "faction": "None",
@@ -649,8 +591,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "5.03",
     "planets": "8",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus"
+    "moons": "7"
   },
   "Copernicus Minor": {
     "faction": "None",
@@ -661,8 +602,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "178717",
     "magnitude": "11.16",
     "planets": "1",
-    "moons": "2",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_Minor"
+    "moons": "2"
   },
   "Lantana": {
     "faction": "None",
@@ -673,8 +613,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "772893",
     "magnitude": "3.39",
     "planets": "9",
-    "moons": "12",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Lantana"
+    "moons": "12"
   },
   "Jaffa": {
     "spectralClass": "G1",
@@ -684,8 +623,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "717189",
     "magnitude": "4.77",
     "planets": "8",
-    "moons": "12",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Jaffa"
+    "moons": "12"
   },
   "Porrima": {
     "faction": "None",
@@ -696,8 +634,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "973700",
     "magnitude": "2.40",
     "planets": "6",
-    "moons": "15",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Porrima"
+    "moons": "15"
   },
   "Feynman": {
     "faction": "None",
@@ -708,8 +645,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "814671",
     "magnitude": "3.62",
     "planets": "9",
-    "moons": "14",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Feynman"
+    "moons": "14"
   },
   "Xi Ophiuchi": {
     "faction": "None",
@@ -719,8 +655,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "973700",
     "magnitude": "3.19",
     "planets": "9",
-    "moons": "14",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Xi_Ophiuchi"
+    "moons": "14"
   },
   "Zeta Ophiuchi": {
     "faction": "None",
@@ -731,8 +666,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "545899",
     "magnitude": "7.69",
     "planets": "6",
-    "moons": "13",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Zeta_Ophiuchi"
+    "moons": "13"
   },
   "Volii": {
     "faction": "Freestar Collective",
@@ -743,8 +677,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "5.07",
     "planets": "6",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Volii"
+    "moons": "5"
   },
   "Alpha Tirna": {
     "spectralClass": "G3",
@@ -754,8 +687,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "680053",
     "magnitude": "5.06",
     "planets": "10",
-    "moons": "21",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Tirna"
+    "moons": "21"
   },
   "Beta Tirna": {
     "faction": "None",
@@ -766,8 +698,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "222816",
     "magnitude": "15.17",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Tirna"
+    "moons": "0"
   },
   "Bolivar": {
     "faction": "None",
@@ -778,8 +709,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "309157",
     "magnitude": "10.55",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bolivar"
+    "moons": "0"
   },
   "Rivera": {
     "faction": "None",
@@ -790,8 +720,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "10.59",
     "planets": "5",
-    "moons": "6",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Rivera"
+    "moons": "6"
   },
   "Nirvana": {
     "spectralClass": "K0",
@@ -801,8 +730,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "591855",
     "magnitude": "5.01",
     "planets": "4",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Nirvana"
+    "moons": "3"
   },
   "Alchiba": {
     "spectralClass": "F0",
@@ -812,8 +740,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "904150",
     "magnitude": "3.14",
     "planets": "10",
-    "moons": "18",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Alchiba"
+    "moons": "18"
   },
   "Celebrai": {
     "faction": "None",
@@ -823,8 +750,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "8638110",
     "magnitude": "0.76",
     "planets": "4",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Celebrai"
+    "moons": "3"
   },
   "Zosma": {
     "faction": "None",
@@ -835,8 +761,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1488370",
     "magnitude": "1.29",
     "planets": "5",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Zosma"
+    "moons": "8"
   },
   "Heisenberg": {
     "spectralClass": "F9",
@@ -846,8 +771,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "752004",
     "magnitude": "4.42",
     "planets": "10",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg"
+    "moons": "9"
   },
   "Shoza": {
     "faction": "None",
@@ -858,8 +782,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "793782",
     "magnitude": "3.53",
     "planets": "9",
-    "moons": "11",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Shoza"
+    "moons": "11"
   },
   "Freya": {
     "spectralClass": "G2",
@@ -869,8 +792,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "696300",
     "magnitude": "4.56",
     "planets": "9",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Freya"
+    "moons": "8"
   },
   "Ixyll": {
     "faction": "None",
@@ -881,8 +803,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "625277",
     "magnitude": "5.14",
     "planets": "9",
-    "moons": "17",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Ixyll"
+    "moons": "17"
   },
   "Bara": {
     "faction": "None",
@@ -893,8 +814,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "3.69",
     "planets": "7",
-    "moons": "10",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bara"
+    "moons": "10"
   },
   "Moloch": {
     "spectralClass": "G8",
@@ -904,8 +824,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.11",
     "planets": "7",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Moloch"
+    "moons": "7"
   },
   "Rutherford": {
     "faction": "None",
@@ -916,8 +835,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "731114",
     "magnitude": "3.96",
     "planets": "6",
-    "moons": "15",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford"
+    "moons": "15"
   },
   "Al-Battani": {
     "faction": "None",
@@ -928,8 +846,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "6.11",
     "planets": "8",
-    "moons": "12",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani"
+    "moons": "12"
   },
   "Khayyam": {
     "spectralClass": "G4",
@@ -939,8 +856,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "663805",
     "magnitude": "6.30",
     "planets": "6",
-    "moons": "12",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam"
+    "moons": "12"
   },
   "Ophion": {
     "faction": "None",
@@ -951,8 +867,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "591855",
     "magnitude": "5.34",
     "planets": "1",
-    "moons": "1",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Ophion"
+    "moons": "1"
   },
   "Hyla": {
     "spectralClass": "G1",
@@ -962,8 +877,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "717189",
     "magnitude": "5.07",
     "planets": "8",
-    "moons": "14",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Hyla"
+    "moons": "14"
   },
   "Sparta": {
     "faction": "None",
@@ -974,8 +888,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "4.81",
     "planets": "8",
-    "moons": "13",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Sparta"
+    "moons": "13"
   },
   "Charybdis": {
     "spectralClass": "G0",
@@ -985,8 +898,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "731114",
     "magnitude": "4.43",
     "planets": "9",
-    "moons": "10",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis"
+    "moons": "10"
   },
   "Serpentis": {
     "spectralClass": "K2",
@@ -996,8 +908,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "8346020",
     "magnitude": "0.85",
     "planets": "6",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis"
+    "moons": "9"
   },
   "Nirah": {
     "faction": "None",
@@ -1008,8 +919,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.79",
     "planets": "5",
-    "moons": "2",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Nirah"
+    "moons": "2"
   },
   "Leonis": {
     "faction": "None",
@@ -1019,8 +929,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1460550",
     "magnitude": "2.12",
     "planets": "9",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Leonis"
+    "moons": "8"
   },
   "Decaran": {
     "faction": "None",
@@ -1031,8 +940,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "602995",
     "magnitude": "10.22",
     "planets": "9",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Decaran"
+    "moons": "7"
   },
   "Heinlein": {
     "faction": "None",
@@ -1043,8 +951,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "877338",
     "magnitude": "2.56",
     "planets": "7",
-    "moons": "16",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Heinlein"
+    "moons": "16"
   },
   "Delta Vulpes": {
     "faction": "None",
@@ -1055,8 +962,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "555705",
     "magnitude": "6.01",
     "planets": "7",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes"
+    "moons": "8"
   },
   "Gamma Vulpes": {
     "faction": "None",
@@ -1067,8 +973,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "561217",
     "magnitude": "5.32",
     "planets": "4",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Gamma_Vulpes"
+    "moons": "9"
   },
   "Masada": {
     "faction": "None",
@@ -1079,8 +984,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "696300",
     "magnitude": "4.93",
     "planets": "9",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Masada"
+    "moons": "8"
   },
   "Bannoc Secondus": {
     "faction": "None",
@@ -1091,8 +995,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "265986",
     "magnitude": "13.51",
     "planets": "1",
-    "moons": "0",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bannoc_Secondus"
+    "moons": "0"
   },
   "Bannoc": {
     "faction": "None",
@@ -1103,8 +1006,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "576536",
     "magnitude": "5.98",
     "planets": "4",
-    "moons": "3",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bannoc"
+    "moons": "3"
   },
   "Bel": {
     "faction": "None",
@@ -1115,8 +1017,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "731114",
     "magnitude": "5.33",
     "planets": "7",
-    "moons": "11",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bel"
+    "moons": "11"
   },
   "Syrma": {
     "spectralClass": "F7",
@@ -1126,8 +1027,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "793782",
     "magnitude": "2.33",
     "planets": "7",
-    "moons": "11",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Syrma"
+    "moons": "11"
   },
   "Alpha Ternion": {
     "faction": "None",
@@ -1138,8 +1038,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "613431",
     "magnitude": "5.36",
     "planets": "9",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Ternion"
+    "moons": "8"
   },
   "Beta Ternion": {
     "spectralClass": "F6",
@@ -1149,8 +1048,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "820690",
     "magnitude": "2.9",
     "planets": "3",
-    "moons": "2",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Ternion"
+    "moons": "2"
   },
   "Proxima Ternion": {
     "faction": "None",
@@ -1161,8 +1059,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "813735",
     "magnitude": "3.06",
     "planets": "4",
-    "moons": "4",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Proxima_Ternion"
+    "moons": "4"
   },
   "Enlil": {
     "spectralClass": "G8",
@@ -1172,8 +1069,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "614136",
     "magnitude": "5.42",
     "planets": "7",
-    "moons": "8",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Enlil"
+    "moons": "8"
   },
   "Foucault": {
     "spectralClass": "F3",
@@ -1183,8 +1079,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "862420",
     "magnitude": "3.34",
     "planets": "8",
-    "moons": "21",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Foucault"
+    "moons": "21"
   },
   "Kang": {
     "faction": "None",
@@ -1194,8 +1089,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "636418",
     "magnitude": "5.36",
     "planets": "8",
-    "moons": "12",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Kang"
+    "moons": "12"
   },
   "Zelazny": {
     "spectralClass": "G0",
@@ -1205,8 +1099,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "731,114",
     "magnitude": "5.08",
     "planets": "8",
-    "moons": "10",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Zelazny"
+    "moons": "10"
   },
   "Katydid": {
     "spectralClass": "A9",
@@ -1215,8 +1108,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "960894",
     "magnitude": "2.04",
     "planets": "3",
-    "moons": "2",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Katydid"
+    "moons": "2"
   },
   "Marduk": {
     "faction": "None",
@@ -1227,8 +1119,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "717189",
     "magnitude": "4.41",
     "planets": "9",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Marduk"
+    "moons": "9"
   },
   "Algorab": {
     "spectralClass": "B9",
@@ -1237,8 +1128,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "1808300",
     "magnitude": "0.81",
     "planets": "3",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Algorab"
+    "moons": "5"
   },
   "Maal": {
     "faction": "None",
@@ -1248,8 +1138,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "772893",
     "magnitude": "3.01",
     "planets": "10",
-    "moons": "13",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Maal"
+    "moons": "13"
   },
   "Verne": {
     "spectralClass": "G5",
@@ -1259,8 +1148,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "4.69",
     "planets": "7",
-    "moons": "10",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Verne"
+    "moons": "10"
   },
   "Pyraas": {
     "faction": "None",
@@ -1271,8 +1159,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "4.97",
     "planets": "8",
-    "moons": "13",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Pyraas"
+    "moons": "13"
   },
   "Rana": {
     "faction": "None",
@@ -1283,8 +1170,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "835560",
     "magnitude": "3.32",
     "planets": "9",
-    "moons": "15",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Rana"
+    "moons": "15"
   },
   "Strix": {
     "faction": "None",
@@ -1295,8 +1181,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "591855",
     "magnitude": "5.05",
     "planets": "6",
-    "moons": "9",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Strix"
+    "moons": "9"
   },
   "Fermi": {
     "faction": "None",
@@ -1306,8 +1191,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "4.22",
     "planets": "10",
-    "moons": "19",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Fermi"
+    "moons": "19"
   },
   "Bohr": {
     "faction": "None",
@@ -1317,8 +1201,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "647559",
     "magnitude": "5.42",
     "planets": "8",
-    "moons": "7",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Bohr"
+    "moons": "7"
   },
   "Huygens": {
     "faction": "None",
@@ -1328,8 +1211,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "772893",
     "magnitude": "3.43",
     "planets": "8",
-    "moons": "12",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Huygens"
+    "moons": "12"
   },
   "Hawking": {
     "faction": "None",
@@ -1339,8 +1221,7 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "632905",
     "magnitude": "5.12",
     "planets": "6",
-    "moons": "5",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Hawking"
+    "moons": "5"
   },
   "Archimedes": {
     "faction": "None",
@@ -1350,7 +1231,6 @@ window.TIMEPILOT_SYSTEM_DETAILS = {
     "radius": "835560",
     "magnitude": "2.44",
     "planets": "6",
-    "moons": "6",
-    "sourceUrl": "https://starfield.fandom.com/wiki/Archimedes"
+    "moons": "6"
   }
 };
