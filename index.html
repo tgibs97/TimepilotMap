@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Timepilot Star Map</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <!-- Primary map workspace. The SVG layers are populated by app.js. -->
+      <section class="map-stage" aria-label="Navigable star map">
+        <div class="topbar">
+          <div class="brand">
+            <span class="brand-mark"></span>
+            <div>
+              <h1>Timepilot Map</h1>
+              <p id="system-count">Loading systems</p>
+            </div>
+          </div>
+
+          <label class="search" for="system-search">
+            <span>Search</span>
+            <input id="system-search" type="search" placeholder="System name" autocomplete="off">
+          </label>
+        </div>
+
+        <div class="map-wrap" id="map-wrap">
+          <!-- viewBox dimensions match the coordinate system used in map-data.js. -->
+          <svg id="star-map" class="star-map" viewBox="0 0 2048 1137" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="map-title map-desc">
+            <title id="map-title">Timepilot star systems</title>
+            <desc id="map-desc">A pannable and zoomable star map with selectable systems.</desc>
+            <defs>
+              <filter id="node-glow" x="-120%" y="-120%" width="340%" height="340%">
+                <feGaussianBlur stdDeviation="3.5" result="blur"></feGaussianBlur>
+                <feMerge>
+                  <feMergeNode in="blur"></feMergeNode>
+                  <feMergeNode in="SourceGraphic"></feMergeNode>
+                </feMerge>
+              </filter>
+              <radialGradient id="chart-vignette" cx="50%" cy="48%" r="70%">
+                <stop offset="0%" stop-color="#17232a"></stop>
+                <stop offset="58%" stop-color="#101820"></stop>
+                <stop offset="100%" stop-color="#071016"></stop>
+              </radialGradient>
+            </defs>
+            <rect class="space-bg" x="0" y="0" width="2048" height="1137"></rect>
+            <g id="stars-layer"></g>
+            <!-- Pan and zoom transforms are applied to this grouped map content. -->
+            <g id="viewport-layer">
+              <g id="sector-grid-layer" class="hidden"></g>
+              <g id="routes-layer"></g>
+              <g id="travel-route-layer"></g>
+              <g id="systems-layer"></g>
+            </g>
+          </svg>
+        </div>
+
+        <div class="zoom-controls" aria-label="Map controls">
+          <button id="zoom-in" type="button" title="Zoom in">+</button>
+          <button id="zoom-out" type="button" title="Zoom out">-</button>
+          <button id="fit-map" type="button" title="Fit map">Fit</button>
+          <button id="reset-map" type="button" title="Reset view">Reset</button>
+          <button id="travel-open" type="button" title="Plan travel route">Travel</button>
+          <button id="settings-open" type="button" title="Settings">Settings</button>
+        </div>
+
+      </section>
+
+      <!-- Selection details. app.js swaps the empty state for the populated card. -->
+      <aside class="details-panel" id="details-panel" aria-live="polite">
+        <div class="panel-empty" id="panel-empty">
+          <h2>Select a system</h2>
+          <p>Click a point on the map or search by name to inspect the system.</p>
+        </div>
+
+        <article class="system-card hidden" id="system-card">
+          <div class="system-heading">
+            <span class="system-swatch" id="detail-swatch"></span>
+            <div>
+              <h2 id="detail-name"></h2>
+              <p id="detail-sector"></p>
+            </div>
+            <button class="system-close" id="system-close" type="button" aria-label="Close system details" title="Close">x</button>
+          </div>
+
+          <dl class="system-stats">
+            <div>
+              <dt>Faction</dt>
+              <dd id="detail-faction"></dd>
+            </div>
+            <div>
+              <dt>Spectral Class</dt>
+              <dd id="detail-spectral-class"></dd>
+            </div>
+            <div>
+              <dt>Catalogue ID</dt>
+              <dd id="detail-catalogue-id"></dd>
+            </div>
+            <div>
+              <dt>Temperature</dt>
+              <dd id="detail-temperature"></dd>
+            </div>
+            <div>
+              <dt>Mass</dt>
+              <dd id="detail-mass"></dd>
+            </div>
+            <div>
+              <dt>Radius</dt>
+              <dd id="detail-radius"></dd>
+            </div>
+            <div>
+              <dt>Magnitude</dt>
+              <dd id="detail-magnitude"></dd>
+            </div>
+            <div>
+              <dt>Planets</dt>
+              <dd id="detail-planets"></dd>
+            </div>
+            <div>
+              <dt>Moons</dt>
+              <dd id="detail-moons"></dd>
+            </div>
+          </dl>
+
+          <a class="source-link" id="detail-source" href="#" target="_blank" rel="noreferrer">View Starfield Wiki source</a>
+        </article>
+
+        <article class="travel-panel hidden" id="travel-panel" aria-live="polite">
+          <header>
+            <h2>Travel Route</h2>
+            <button id="travel-clear" type="button" title="Clear route" aria-label="Clear travel route">x</button>
+          </header>
+          <p class="travel-instruction" id="travel-status">Select an origin system.</p>
+          <dl class="travel-totals hidden" id="travel-totals">
+            <div>
+              <dt>Total Lightyears</dt>
+              <dd id="travel-total-distance">-</dd>
+            </div>
+            <div>
+              <dt>Total Jumps</dt>
+              <dd id="travel-total-jumps">-</dd>
+            </div>
+          </dl>
+          <div class="travel-legs" id="travel-legs"></div>
+          <button class="travel-add hidden" id="travel-add" type="button">Add route</button>
+        </article>
+      </aside>
+    </main>
+
+    <div class="modal-backdrop hidden" id="settings-modal" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+      <section class="settings-modal">
+        <header class="modal-header">
+          <h2 id="settings-title">Settings</h2>
+          <button class="modal-close" id="settings-close" type="button" aria-label="Close settings" title="Close">x</button>
+        </header>
+
+        <label class="setting-row" for="sector-grid-toggle">
+          <span>
+            <strong>Sector grid</strong>
+            <small>Show sector boundaries and labels on the map.</small>
+          </span>
+          <input id="sector-grid-toggle" type="checkbox">
+        </label>
+      </section>
+    </div>
+
+    <script src="map-data.js"></script>
+    <script src="system-details.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
