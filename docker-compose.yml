@@ -1,0 +1,7 @@
+services:
+  timepilot-map:
+    build: .
+    container_name: timepilot-map
+    ports:
+      - "8080:80"
+    restart: unless-stopped
