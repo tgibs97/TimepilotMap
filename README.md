@@ -3,7 +3,7 @@
 A static navigable star-map website based on the supplied chart. It supports pan, wheel zoom, system selection, search, and a details panel.
 
 Selecting a system updates the details panel without moving the current map view. Pan and zoom are controlled manually.
-The system details panel is populated from `system-details.js`, generated from Starfield Fandom wiki system pages.
+The system details panel is populated from `system-details.js`.
 
 ## Run locally
 

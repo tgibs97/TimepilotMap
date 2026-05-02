@@ -359,7 +359,7 @@
     detail.magnitude.textContent = fieldValue(systemWikiDetails, "magnitude");
     detail.planets.textContent = fieldValue(systemWikiDetails, "planets");
     detail.moons.textContent = fieldValue(systemWikiDetails, "moons");
-    detail.source.href = systemWikiDetails.sourceUrl || `https://starfield.fandom.com/wiki/${encodeURIComponent(system.name.replaceAll(" ", "_"))}`;
+    //detail.source.href = systemWikiDetails.sourceUrl || `https://starfield.fandom.com/wiki/${encodeURIComponent(system.name.replaceAll(" ", "_"))}`;
 
     emptyPanel.classList.add("hidden");
     travelPanel.classList.add("hidden");
