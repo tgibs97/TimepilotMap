@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Procyon A",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_A",
+  "sourcePage": "Procyon A",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Procyon A"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Procyon I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Procyon_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_I",
+      "sourcePage": "Procyon I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.24 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD CO₂ (Cor)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Procyon_A/planets/Procyon_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Procyon II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Procyon_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_II",
+      "sourcePage": "Procyon II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.96 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "EXTR CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Primed For Life; Prismatic Plumes"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Procyon_A/planets/Procyon_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Procyon III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Procyon_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_III",
+      "sourcePage": "Procyon III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate (10)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate (5)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass; Psychotropic Biota"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Procyon_A/planets/Procyon_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Procyon IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Procyon_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_IV",
+      "sourcePage": "Procyon IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem; Primed For Life; Sonorous Lithosphere"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Procyon_A/planets/Procyon_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Procyon V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Procyon_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_V",
+      "sourcePage": "Procyon V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.48 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Procyon_A/planets/Procyon_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Procyon VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Procyon_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_VI",
+      "sourcePage": "Procyon VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "5.49 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Procyon_A/planets/Procyon_VI-moons.json"
+    }
+  ]
+}

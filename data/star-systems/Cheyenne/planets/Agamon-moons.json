@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Cheyenne",
+  "planetName": "Agamon",
+  "planetWikiPath": "/wiki/Agamon",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Agamon A",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Agamon_A",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Agamon_A",
+      "sourcePage": "Agamon A",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Agamon"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem; Coralline Landmass; Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Agamon B",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Agamon_B",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Agamon_B",
+      "sourcePage": "Agamon B",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Agamon"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.30 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Agamon C",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Agamon_C",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Agamon_C",
+      "sourcePage": "Agamon C",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Agamon"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Agamon D",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Agamon_D",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Agamon_D",
+      "sourcePage": "Agamon D",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Agamon"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.26 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

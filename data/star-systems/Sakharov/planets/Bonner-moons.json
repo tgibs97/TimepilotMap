@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Sakharov",
+  "planetName": "Bonner",
+  "planetWikiPath": "/wiki/Bonner",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Mir II",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Mir_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Mir_II",
+      "sourcePage": "Mir II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sakharov"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bonner"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

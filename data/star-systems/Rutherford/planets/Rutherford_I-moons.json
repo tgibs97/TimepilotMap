@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Rutherford",
+  "planetName": "Rutherford I",
+  "planetWikiPath": "/wiki/Rutherford_I",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Rutherford I-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Rutherford_I-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_I-a",
+      "sourcePage": "Rutherford I-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.25 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Boiled Seas"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rutherford I-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rutherford_I-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_I-b",
+      "sourcePage": "Rutherford I-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.10 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

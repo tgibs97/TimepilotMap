@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Eridani",
+  "planetName": "Eridani VI",
+  "planetWikiPath": "/wiki/Eridani_VI",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Eridani VI-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Eridani_VI-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Eridani_VI-a",
+      "sourcePage": "Eridani VI-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Eridani"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Eridani VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

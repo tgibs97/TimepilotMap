@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Syrma",
+  "planetName": "Syrma VI",
+  "planetWikiPath": "/wiki/Syrma_VI",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Syrma VI-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Syrma_VI-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VI-a",
+      "sourcePage": "Syrma VI-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Syrma VI-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Syrma_VI-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VI-b",
+      "sourcePage": "Syrma VI-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.22 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Syrma VI-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Syrma_VI-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VI-c",
+      "sourcePage": "Syrma VI-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.64 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Ecological Consortium"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Syrma VI-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Syrma_VI-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VI-d",
+      "sourcePage": "Syrma VI-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.02 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Denebola",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Denebola",
+  "sourcePage": "Denebola",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Denebola"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Denebola I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Denebola_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Denebola/planets/Denebola_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Denebola II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Denebola_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Denebola/planets/Denebola_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Denebola III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Denebola_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Denebola/planets/Denebola_III-moons.json"
+    }
+  ]
+}

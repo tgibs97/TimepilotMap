@@ -1,0 +1,846 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "source": "https://starfield.fandom.com/wiki/",
+  "systems": {
+    "Alpha Andraste": {
+      "slug": "Alpha_Andraste",
+      "planetsPath": "data/star-systems/Alpha_Andraste/planets.json",
+      "planetCount": 6,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Beta Andraste": {
+      "slug": "Beta_Andraste",
+      "planetsPath": "data/star-systems/Beta_Andraste/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Carinae": {
+      "slug": "Carinae",
+      "planetsPath": "data/star-systems/Carinae/planets.json",
+      "planetCount": 5,
+      "moonCount": 9,
+      "parseStatus": "ok"
+    },
+    "Eta Cassiopeia": {
+      "slug": "Eta_Cassiopeia",
+      "planetsPath": "data/star-systems/Eta_Cassiopeia/planets.json",
+      "planetCount": 4,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Piazzi": {
+      "slug": "Piazzi",
+      "planetsPath": "data/star-systems/Piazzi/planets.json",
+      "planetCount": 7,
+      "moonCount": 14,
+      "parseStatus": "ok"
+    },
+    "Bessel": {
+      "slug": "Bessel",
+      "planetsPath": "data/star-systems/Bessel/planets.json",
+      "planetCount": 3,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Altair": {
+      "slug": "Altair",
+      "planetsPath": "data/star-systems/Altair/planets.json",
+      "planetCount": 5,
+      "moonCount": 8,
+      "parseStatus": "ok"
+    },
+    "Van Maanen's Star": {
+      "slug": "Van_Maanen_s_Star",
+      "planetsPath": "data/star-systems/Van_Maanen_s_Star/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Sol": {
+      "slug": "Sol",
+      "planetsPath": "data/star-systems/Sol/planets.json",
+      "planetCount": 9,
+      "moonCount": 21,
+      "parseStatus": "ok"
+    },
+    "Procyon A": {
+      "slug": "Procyon_A",
+      "planetsPath": "data/star-systems/Procyon_A/planets.json",
+      "planetCount": 6,
+      "moonCount": 9,
+      "parseStatus": "ok"
+    },
+    "Procyon B": {
+      "slug": "Procyon_B",
+      "planetsPath": "data/star-systems/Procyon_B/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Luyten's Star": {
+      "slug": "Luyten_s_Star",
+      "planetsPath": "data/star-systems/Luyten_s_Star/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Tau Ceti": {
+      "slug": "Tau_Ceti",
+      "planetsPath": "data/star-systems/Tau_Ceti/planets.json",
+      "planetCount": 9,
+      "moonCount": 10,
+      "parseStatus": "ok"
+    },
+    "Sirius": {
+      "slug": "Sirius",
+      "planetsPath": "data/star-systems/Sirius/planets.json",
+      "planetCount": 3,
+      "moonCount": 3,
+      "parseStatus": "ok"
+    },
+    "The Pup": {
+      "slug": "The_Pup",
+      "planetsPath": "data/star-systems/The_Pup/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Toliman": {
+      "slug": "Toliman",
+      "planetsPath": "data/star-systems/Toliman/planets.json",
+      "planetCount": 2,
+      "moonCount": 3,
+      "parseStatus": "ok"
+    },
+    "Alpha Centauri": {
+      "slug": "Alpha_Centauri",
+      "planetsPath": "data/star-systems/Alpha_Centauri/planets.json",
+      "planetCount": 4,
+      "moonCount": 8,
+      "parseStatus": "ok"
+    },
+    "Wolf": {
+      "slug": "Wolf",
+      "planetsPath": "data/star-systems/Wolf/planets.json",
+      "planetCount": 2,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Barnard's Star": {
+      "slug": "Barnard_s_Star",
+      "planetsPath": "data/star-systems/Barnard_s_Star/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Kapteyn's Star": {
+      "slug": "Kapteyn_s_Star",
+      "planetsPath": "data/star-systems/Kapteyn_s_Star/planets.json",
+      "planetCount": 2,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Eridani": {
+      "slug": "Eridani",
+      "planetsPath": "data/star-systems/Eridani/planets.json",
+      "planetCount": 9,
+      "moonCount": 14,
+      "parseStatus": "ok"
+    },
+    "Delta Pavonis": {
+      "slug": "Delta_Pavonis",
+      "planetsPath": "data/star-systems/Delta_Pavonis/planets.json",
+      "planetCount": 0,
+      "moonCount": 0,
+      "parseStatus": "missing-planets-table"
+    },
+    "Sakharov": {
+      "slug": "Sakharov",
+      "planetsPath": "data/star-systems/Sakharov/planets.json",
+      "planetCount": 1,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Oborum Prime": {
+      "slug": "Oborum_Prime",
+      "planetsPath": "data/star-systems/Oborum_Prime/planets.json",
+      "planetCount": 4,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Oborum Proxima": {
+      "slug": "Oborum_Proxima",
+      "planetsPath": "data/star-systems/Oborum_Proxima/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Guniibuu": {
+      "slug": "Guniibuu",
+      "planetsPath": "data/star-systems/Guniibuu/planets.json",
+      "planetCount": 7,
+      "moonCount": 20,
+      "parseStatus": "ok"
+    },
+    "Indum": {
+      "slug": "Indum",
+      "planetsPath": "data/star-systems/Indum/planets.json",
+      "planetCount": 5,
+      "moonCount": 10,
+      "parseStatus": "ok"
+    },
+    "Linnaeus": {
+      "slug": "Linnaeus",
+      "planetsPath": "data/star-systems/Linnaeus/planets.json",
+      "planetCount": 7,
+      "moonCount": 5,
+      "parseStatus": "ok"
+    },
+    "Aranae": {
+      "slug": "Aranae",
+      "planetsPath": "data/star-systems/Aranae/planets.json",
+      "planetCount": 5,
+      "moonCount": 6,
+      "parseStatus": "ok"
+    },
+    "Olympus": {
+      "slug": "Olympus",
+      "planetsPath": "data/star-systems/Olympus/planets.json",
+      "planetCount": 6,
+      "moonCount": 7,
+      "parseStatus": "ok"
+    },
+    "Vega": {
+      "slug": "Vega",
+      "planetsPath": "data/star-systems/Vega/planets.json",
+      "planetCount": 2,
+      "moonCount": 8,
+      "parseStatus": "ok"
+    },
+    "Valo": {
+      "slug": "Valo",
+      "planetsPath": "data/star-systems/Valo/planets.json",
+      "planetCount": 5,
+      "moonCount": 6,
+      "parseStatus": "ok"
+    },
+    "Narion": {
+      "slug": "Narion",
+      "planetsPath": "data/star-systems/Narion/planets.json",
+      "planetCount": 7,
+      "moonCount": 8,
+      "parseStatus": "ok"
+    },
+    "Andromas": {
+      "slug": "Andromas",
+      "planetsPath": "data/star-systems/Andromas/planets.json",
+      "planetCount": 6,
+      "moonCount": 5,
+      "parseStatus": "ok"
+    },
+    "Nikola": {
+      "slug": "Nikola",
+      "planetsPath": "data/star-systems/Nikola/planets.json",
+      "planetCount": 10,
+      "moonCount": 9,
+      "parseStatus": "ok"
+    },
+    "Lunara": {
+      "slug": "Lunara",
+      "planetsPath": "data/star-systems/Lunara/planets.json",
+      "planetCount": 8,
+      "moonCount": 17,
+      "parseStatus": "ok"
+    },
+    "Cheyenne": {
+      "slug": "Cheyenne",
+      "planetsPath": "data/star-systems/Cheyenne/planets.json",
+      "planetCount": 9,
+      "moonCount": 26,
+      "parseStatus": "ok"
+    },
+    "Maheo": {
+      "slug": "Maheo",
+      "planetsPath": "data/star-systems/Maheo/planets.json",
+      "planetCount": 7,
+      "moonCount": 9,
+      "parseStatus": "ok"
+    },
+    "Leviathan": {
+      "slug": "Leviathan",
+      "planetsPath": "data/star-systems/Leviathan/planets.json",
+      "planetCount": 7,
+      "moonCount": 3,
+      "parseStatus": "ok"
+    },
+    "Groombridge": {
+      "slug": "Groombridge",
+      "planetsPath": "data/star-systems/Groombridge/planets.json",
+      "planetCount": 8,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "McClure": {
+      "slug": "McClure",
+      "planetsPath": "data/star-systems/McClure/planets.json",
+      "planetCount": 3,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bradbury": {
+      "slug": "Bradbury",
+      "planetsPath": "data/star-systems/Bradbury/planets.json",
+      "planetCount": 5,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Kumasi": {
+      "slug": "Kumasi",
+      "planetsPath": "data/star-systems/Kumasi/planets.json",
+      "planetCount": 9,
+      "moonCount": 19,
+      "parseStatus": "ok"
+    },
+    "Ursae Minoris": {
+      "slug": "Ursae_Minoris",
+      "planetsPath": "data/star-systems/Ursae_Minoris/planets.json",
+      "planetCount": 3,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Ursae Majoris": {
+      "slug": "Ursae_Majoris",
+      "planetsPath": "data/star-systems/Ursae_Majoris/planets.json",
+      "planetCount": 3,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Rasalhague": {
+      "slug": "Rasalhague",
+      "planetsPath": "data/star-systems/Rasalhague/planets.json",
+      "planetCount": 4,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Nemeria": {
+      "slug": "Nemeria",
+      "planetsPath": "data/star-systems/Nemeria/planets.json",
+      "planetCount": 4,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Newton": {
+      "slug": "Newton",
+      "planetsPath": "data/star-systems/Newton/planets.json",
+      "planetCount": 6,
+      "moonCount": 6,
+      "parseStatus": "ok"
+    },
+    "Bardeen": {
+      "slug": "Bardeen",
+      "planetsPath": "data/star-systems/Bardeen/planets.json",
+      "planetCount": 7,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Sagan": {
+      "slug": "Sagan",
+      "planetsPath": "data/star-systems/Sagan/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Arcturus": {
+      "slug": "Arcturus",
+      "planetsPath": "data/star-systems/Arcturus/planets.json",
+      "planetCount": 3,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Muphrid": {
+      "slug": "Muphrid",
+      "planetsPath": "data/star-systems/Muphrid/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Kryx": {
+      "slug": "Kryx",
+      "planetsPath": "data/star-systems/Kryx/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Alpha Marae": {
+      "slug": "Alpha_Marae",
+      "planetsPath": "data/star-systems/Alpha_Marae/planets.json",
+      "planetCount": 5,
+      "moonCount": 7,
+      "parseStatus": "ok"
+    },
+    "Beta Marae": {
+      "slug": "Beta_Marae",
+      "planetsPath": "data/star-systems/Beta_Marae/planets.json",
+      "planetCount": 6,
+      "moonCount": 15,
+      "parseStatus": "ok"
+    },
+    "Schrodinger": {
+      "slug": "Schrodinger",
+      "planetsPath": "data/star-systems/Schrodinger/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Tidacha": {
+      "slug": "Tidacha",
+      "planetsPath": "data/star-systems/Tidacha/planets.json",
+      "planetCount": 1,
+      "moonCount": 3,
+      "parseStatus": "ok"
+    },
+    "Denebola": {
+      "slug": "Denebola",
+      "planetsPath": "data/star-systems/Denebola/planets.json",
+      "planetCount": 3,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Copernicus": {
+      "slug": "Copernicus",
+      "planetsPath": "data/star-systems/Copernicus/planets.json",
+      "planetCount": 8,
+      "moonCount": 7,
+      "parseStatus": "ok"
+    },
+    "Copernicus Minor": {
+      "slug": "Copernicus_Minor",
+      "planetsPath": "data/star-systems/Copernicus_Minor/planets.json",
+      "planetCount": 1,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Lantana": {
+      "slug": "Lantana",
+      "planetsPath": "data/star-systems/Lantana/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Jaffa": {
+      "slug": "Jaffa",
+      "planetsPath": "data/star-systems/Jaffa/planets.json",
+      "planetCount": 8,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Porrima": {
+      "slug": "Porrima",
+      "planetsPath": "data/star-systems/Porrima/planets.json",
+      "planetCount": 6,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Feynman": {
+      "slug": "Feynman",
+      "planetsPath": "data/star-systems/Feynman/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Xi Ophiuchi": {
+      "slug": "Xi_Ophiuchi",
+      "planetsPath": "data/star-systems/Xi_Ophiuchi/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Zeta Ophiuchi": {
+      "slug": "Zeta_Ophiuchi",
+      "planetsPath": "data/star-systems/Zeta_Ophiuchi/planets.json",
+      "planetCount": 6,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Volii": {
+      "slug": "Volii",
+      "planetsPath": "data/star-systems/Volii/planets.json",
+      "planetCount": 6,
+      "moonCount": 4,
+      "parseStatus": "ok"
+    },
+    "Alpha Tirna": {
+      "slug": "Alpha_Tirna",
+      "planetsPath": "data/star-systems/Alpha_Tirna/planets.json",
+      "planetCount": 10,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Beta Tirna": {
+      "slug": "Beta_Tirna",
+      "planetsPath": "data/star-systems/Beta_Tirna/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bolivar": {
+      "slug": "Bolivar",
+      "planetsPath": "data/star-systems/Bolivar/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Rivera": {
+      "slug": "Rivera",
+      "planetsPath": "data/star-systems/Rivera/planets.json",
+      "planetCount": 5,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Nirvana": {
+      "slug": "Nirvana",
+      "planetsPath": "data/star-systems/Nirvana/planets.json",
+      "planetCount": 4,
+      "moonCount": 3,
+      "parseStatus": "ok"
+    },
+    "Alchiba": {
+      "slug": "Alchiba",
+      "planetsPath": "data/star-systems/Alchiba/planets.json",
+      "planetCount": 10,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Celebrai": {
+      "slug": "Celebrai",
+      "planetsPath": "data/star-systems/Celebrai/planets.json",
+      "planetCount": 4,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Zosma": {
+      "slug": "Zosma",
+      "planetsPath": "data/star-systems/Zosma/planets.json",
+      "planetCount": 5,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Heisenberg": {
+      "slug": "Heisenberg",
+      "planetsPath": "data/star-systems/Heisenberg/planets.json",
+      "planetCount": 10,
+      "moonCount": 9,
+      "parseStatus": "ok"
+    },
+    "Shoza": {
+      "slug": "Shoza",
+      "planetsPath": "data/star-systems/Shoza/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Freya": {
+      "slug": "Freya",
+      "planetsPath": "data/star-systems/Freya/planets.json",
+      "planetCount": 9,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Ixyll": {
+      "slug": "Ixyll",
+      "planetsPath": "data/star-systems/Ixyll/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bara": {
+      "slug": "Bara",
+      "planetsPath": "data/star-systems/Bara/planets.json",
+      "planetCount": 7,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Moloch": {
+      "slug": "Moloch",
+      "planetsPath": "data/star-systems/Moloch/planets.json",
+      "planetCount": 7,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Rutherford": {
+      "slug": "Rutherford",
+      "planetsPath": "data/star-systems/Rutherford/planets.json",
+      "planetCount": 6,
+      "moonCount": 15,
+      "parseStatus": "ok"
+    },
+    "Al-Battani": {
+      "slug": "Al-Battani",
+      "planetsPath": "data/star-systems/Al-Battani/planets.json",
+      "planetCount": 8,
+      "moonCount": 12,
+      "parseStatus": "ok"
+    },
+    "Khayyam": {
+      "slug": "Khayyam",
+      "planetsPath": "data/star-systems/Khayyam/planets.json",
+      "planetCount": 6,
+      "moonCount": 12,
+      "parseStatus": "ok"
+    },
+    "Ophion": {
+      "slug": "Ophion",
+      "planetsPath": "data/star-systems/Ophion/planets.json",
+      "planetCount": 1,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Hyla": {
+      "slug": "Hyla",
+      "planetsPath": "data/star-systems/Hyla/planets.json",
+      "planetCount": 8,
+      "moonCount": 14,
+      "parseStatus": "ok"
+    },
+    "Sparta": {
+      "slug": "Sparta",
+      "planetsPath": "data/star-systems/Sparta/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Charybdis": {
+      "slug": "Charybdis",
+      "planetsPath": "data/star-systems/Charybdis/planets.json",
+      "planetCount": 9,
+      "moonCount": 10,
+      "parseStatus": "ok"
+    },
+    "Serpentis": {
+      "slug": "Serpentis",
+      "planetsPath": "data/star-systems/Serpentis/planets.json",
+      "planetCount": 6,
+      "moonCount": 9,
+      "parseStatus": "ok"
+    },
+    "Nirah": {
+      "slug": "Nirah",
+      "planetsPath": "data/star-systems/Nirah/planets.json",
+      "planetCount": 5,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Leonis": {
+      "slug": "Leonis",
+      "planetsPath": "data/star-systems/Leonis/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Decaran": {
+      "slug": "Decaran",
+      "planetsPath": "data/star-systems/Decaran/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Heinlein": {
+      "slug": "Heinlein",
+      "planetsPath": "data/star-systems/Heinlein/planets.json",
+      "planetCount": 7,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Delta Vulpes": {
+      "slug": "Delta_Vulpes",
+      "planetsPath": "data/star-systems/Delta_Vulpes/planets.json",
+      "planetCount": 7,
+      "moonCount": 8,
+      "parseStatus": "ok"
+    },
+    "Gamma Vulpes": {
+      "slug": "Gamma_Vulpes",
+      "planetsPath": "data/star-systems/Gamma_Vulpes/planets.json",
+      "planetCount": 4,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Masada": {
+      "slug": "Masada",
+      "planetsPath": "data/star-systems/Masada/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bannoc Secondus": {
+      "slug": "Bannoc_Secondus",
+      "planetsPath": "data/star-systems/Bannoc_Secondus/planets.json",
+      "planetCount": 1,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bannoc": {
+      "slug": "Bannoc",
+      "planetsPath": "data/star-systems/Bannoc/planets.json",
+      "planetCount": 4,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bel": {
+      "slug": "Bel",
+      "planetsPath": "data/star-systems/Bel/planets.json",
+      "planetCount": 7,
+      "moonCount": 11,
+      "parseStatus": "ok"
+    },
+    "Syrma": {
+      "slug": "Syrma",
+      "planetsPath": "data/star-systems/Syrma/planets.json",
+      "planetCount": 7,
+      "moonCount": 11,
+      "parseStatus": "ok"
+    },
+    "Alpha Ternion": {
+      "slug": "Alpha_Ternion",
+      "planetsPath": "data/star-systems/Alpha_Ternion/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Beta Ternion": {
+      "slug": "Beta_Ternion",
+      "planetsPath": "data/star-systems/Beta_Ternion/planets.json",
+      "planetCount": 3,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Proxima Ternion": {
+      "slug": "Proxima_Ternion",
+      "planetsPath": "data/star-systems/Proxima_Ternion/planets.json",
+      "planetCount": 4,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Enlil": {
+      "slug": "Enlil",
+      "planetsPath": "data/star-systems/Enlil/planets.json",
+      "planetCount": 7,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Foucault": {
+      "slug": "Foucault",
+      "planetsPath": "data/star-systems/Foucault/planets.json",
+      "planetCount": 8,
+      "moonCount": 20,
+      "parseStatus": "ok"
+    },
+    "Kang": {
+      "slug": "Kang",
+      "planetsPath": "data/star-systems/Kang/planets.json",
+      "planetCount": 8,
+      "moonCount": 12,
+      "parseStatus": "ok"
+    },
+    "Zelazny": {
+      "slug": "Zelazny",
+      "planetsPath": "data/star-systems/Zelazny/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Katydid": {
+      "slug": "Katydid",
+      "planetsPath": "data/star-systems/Katydid/planets.json",
+      "planetCount": 3,
+      "moonCount": 2,
+      "parseStatus": "ok"
+    },
+    "Marduk": {
+      "slug": "Marduk",
+      "planetsPath": "data/star-systems/Marduk/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Algorab": {
+      "slug": "Algorab",
+      "planetsPath": "data/star-systems/Algorab/planets.json",
+      "planetCount": 3,
+      "moonCount": 1,
+      "parseStatus": "ok"
+    },
+    "Maal": {
+      "slug": "Maal",
+      "planetsPath": "data/star-systems/Maal/planets.json",
+      "planetCount": 10,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Verne": {
+      "slug": "Verne",
+      "planetsPath": "data/star-systems/Verne/planets.json",
+      "planetCount": 7,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Pyraas": {
+      "slug": "Pyraas",
+      "planetsPath": "data/star-systems/Pyraas/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Rana": {
+      "slug": "Rana",
+      "planetsPath": "data/star-systems/Rana/planets.json",
+      "planetCount": 9,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Strix": {
+      "slug": "Strix",
+      "planetsPath": "data/star-systems/Strix/planets.json",
+      "planetCount": 6,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Fermi": {
+      "slug": "Fermi",
+      "planetsPath": "data/star-systems/Fermi/planets.json",
+      "planetCount": 10,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Bohr": {
+      "slug": "Bohr",
+      "planetsPath": "data/star-systems/Bohr/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Huygens": {
+      "slug": "Huygens",
+      "planetsPath": "data/star-systems/Huygens/planets.json",
+      "planetCount": 8,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Hawking": {
+      "slug": "Hawking",
+      "planetsPath": "data/star-systems/Hawking/planets.json",
+      "planetCount": 6,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    },
+    "Archimedes": {
+      "slug": "Archimedes",
+      "planetsPath": "data/star-systems/Archimedes/planets.json",
+      "planetCount": 6,
+      "moonCount": 0,
+      "parseStatus": "ok"
+    }
+  }
+}

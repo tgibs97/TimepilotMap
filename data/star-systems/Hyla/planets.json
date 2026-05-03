@@ -1,0 +1,507 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Hyla",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Hyla",
+  "sourcePage": "Hyla",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Hyla"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Hyla I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Hyla_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_I",
+      "sourcePage": "Hyla I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.58 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Continual Conductor"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Hyla_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_II",
+      "sourcePage": "Hyla II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.35 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Abundant"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Abundant"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Emerging Tectonics; Aeriform Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Hyla_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_III",
+      "sourcePage": "Hyla III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.41 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Pelted Fields; Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Hyla_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_IV",
+      "sourcePage": "Hyla IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.47 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Hyla_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_V",
+      "sourcePage": "Hyla V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.44 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Hyla_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_VI",
+      "sourcePage": "Hyla VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.55 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Hyla_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_VII",
+      "sourcePage": "Hyla VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.83 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hyla VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Hyla_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_VIII",
+      "sourcePage": "Hyla VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Hyla/planets/Hyla_VIII-moons.json"
+    }
+  ]
+}

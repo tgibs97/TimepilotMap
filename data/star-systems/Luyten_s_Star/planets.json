@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Luyten's Star",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Luyten's_Star",
+  "sourcePage": "Luyten's Star",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Luyten's Star"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Luyten's Rock",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Luyten%27s_Rock",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Luyten's_Rock",
+      "sourcePage": "Luyten's Rock",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Luyten's Star"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.30 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Global Glacial Recession; Solar Storm Seasons"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Luyten_s_Star/planets/Luyten_s_Rock-moons.json"
+    }
+  ]
+}

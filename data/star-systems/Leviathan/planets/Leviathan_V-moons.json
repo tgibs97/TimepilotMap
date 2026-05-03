@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Leviathan",
+  "planetName": "Leviathan V",
+  "planetWikiPath": "/wiki/Leviathan_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Leviathan V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Leviathan_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Leviathan_V-a",
+      "sourcePage": "Leviathan V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Leviathan"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Leviathan V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

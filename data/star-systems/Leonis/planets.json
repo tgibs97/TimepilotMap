@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Leonis",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Leonis",
+  "sourcePage": "Leonis",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Leonis"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Leonis I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Leonis_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Leonis_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Leonis_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Leonis_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Leonis_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Leonis_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Leonis_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Leonis_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Leonis IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Leonis_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Leonis/planets/Leonis_IX-moons.json"
+    }
+  ]
+}

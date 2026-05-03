@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Rutherford",
+  "planetName": "Rutherford IV",
+  "planetWikiPath": "/wiki/Rutherford_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Rutherford IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Rutherford_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_IV-a",
+      "sourcePage": "Rutherford IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.34 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rutherford IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rutherford_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_IV-b",
+      "sourcePage": "Rutherford IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.10 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rutherford IV-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Rutherford_IV-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_IV-c",
+      "sourcePage": "Rutherford IV-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Slushy Subsurface Seas"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rutherford IV-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Rutherford_IV-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_IV-d",
+      "sourcePage": "Rutherford IV-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.33 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Extinction Event; Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rutherford IV-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Rutherford_IV-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_IV-e",
+      "sourcePage": "Rutherford IV-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

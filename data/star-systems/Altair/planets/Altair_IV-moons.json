@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Altair",
+  "planetName": "Altair IV",
+  "planetWikiPath": "/wiki/Altair_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Altair IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Altair_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_IV-a",
+      "sourcePage": "Altair IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Altair IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Altair_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_IV-b",
+      "sourcePage": "Altair IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Altair IV-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Altair_IV-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_IV-c",
+      "sourcePage": "Altair IV-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.60 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "none"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass; Emerging Tectonics; Extinction Event"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Altair IV-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Altair_IV-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_IV-d",
+      "sourcePage": "Altair IV-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

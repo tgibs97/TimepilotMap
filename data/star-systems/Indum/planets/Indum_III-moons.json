@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Indum",
+  "planetName": "Indum III",
+  "planetWikiPath": "/wiki/Indum_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Indum III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Indum_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Indum_III-a",
+      "sourcePage": "Indum III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Indum"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Indum III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.21 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Indum III-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Indum_III-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Indum_III-b",
+      "sourcePage": "Indum III-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Indum"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Indum III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.73 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Indum III-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Indum_III-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Indum_III-c",
+      "sourcePage": "Indum III-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Indum"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Indum III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Indum III-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Indum_III-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Indum_III-d",
+      "sourcePage": "Indum III-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Indum"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Indum III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

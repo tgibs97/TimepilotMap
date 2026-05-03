@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Ophion",
+  "planetName": "Ophion I",
+  "planetWikiPath": "/wiki/Ophion_I",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Ophion I-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Ophion_I-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Ophion_I-a",
+      "sourcePage": "Ophion I-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Ophion"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Ophion I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

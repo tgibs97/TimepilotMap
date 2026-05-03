@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Huygens",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Huygens",
+  "sourcePage": "Huygens",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Huygens"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Huygens I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Huygens_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Huygens_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Huygens_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Huygens_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Huygens_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Huygens_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Huygens_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Huygens VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Huygens_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Huygens/planets/Huygens_VIII-moons.json"
+    }
+  ]
+}

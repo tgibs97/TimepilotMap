@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Sol",
+  "planetName": "Jupiter",
+  "planetWikiPath": "/wiki/Jupiter",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Callisto",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Callisto",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Callisto",
+      "sourcePage": "Callisto",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Jupiter"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Europa",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Europa",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Europa",
+      "sourcePage": "Europa",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Jupiter"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Ganymede",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Ganymede",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Ganymede",
+      "sourcePage": "Ganymede",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Jupiter"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Io",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Io",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Io",
+      "sourcePage": "Io",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Jupiter"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Zelazny",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Zelazny",
+  "sourcePage": "Zelazny",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Zelazny"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Zelazny I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Zelazny_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Zelazny_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Zelazny_II",
+      "sourcePage": "Zelazny II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Zelazny"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Zelazny_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Zelazny_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Zelazny_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Zelazny_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Zelazny_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Zelazny VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Zelazny_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Zelazny/planets/Zelazny_VIII-moons.json"
+    }
+  ]
+}

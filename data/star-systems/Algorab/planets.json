@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Algorab",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Algorab",
+  "sourcePage": "Algorab",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Algorab"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Algorab I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Algorab_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Algorab/planets/Algorab_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Algorab II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Algorab_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Algorab/planets/Algorab_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Algorab III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Algorab_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Algorab_III",
+      "sourcePage": "Algorab III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Algorab"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Algorab/planets/Algorab_III-moons.json"
+    }
+  ]
+}

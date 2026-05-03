@@ -21,7 +21,7 @@ Then browse to `http://localhost:8080`.
 
 Systems, coordinates, ratings, colors, and routes live in `js/map-data.js`.
 Wiki-derived system facts live in `js/system-details.js`.
-Star System View object data is generated from the Starfield Fandom wiki and stored in `data/star-system-objects.json` plus the importable `js/star-system-objects.js` wrapper. The generator pulls system planet/moon lists and each object's General Information panel when an object page exists.
+Star System View object data is generated from the Starfield Fandom wiki into `data/star-systems/`. The generator writes a manifest, one `planets.json` per system, and one moons JSON file per planet. It pulls system planet/moon lists and each object's General Information panel when an object page exists.
 
 Regenerate planet and moon data with:
 

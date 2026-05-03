@@ -1,0 +1,252 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Kumasi",
+  "planetName": "Kumasi VII",
+  "planetWikiPath": "/wiki/Kumasi_VII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Kumasi VII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Kumasi_VII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VII-a",
+      "sourcePage": "Kumasi VII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Kumasi VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Kumasi VII-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Kumasi_VII-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VII-b",
+      "sourcePage": "Kumasi VII-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Kumasi VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.08 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Kumasi VII-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Kumasi_VII-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VII-c",
+      "sourcePage": "Kumasi VII-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Kumasi VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.29 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Kumasi VII-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Kumasi_VII-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VII-d",
+      "sourcePage": "Kumasi VII-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Kumasi VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

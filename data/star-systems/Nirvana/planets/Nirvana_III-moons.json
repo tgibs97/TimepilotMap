@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Nirvana",
+  "planetName": "Nirvana III",
+  "planetWikiPath": "/wiki/Nirvana_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Nirvana III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Nirvana_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nirvana_III-a",
+      "sourcePage": "Nirvana III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nirvana"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Nirvana III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Bolide Bombardment"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

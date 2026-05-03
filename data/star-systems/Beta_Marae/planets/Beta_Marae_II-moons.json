@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Beta Marae",
+  "planetName": "Beta Marae II",
+  "planetWikiPath": "/wiki/Beta_Marae_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Beta Marae II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Beta_Marae_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Marae_II-a",
+      "sourcePage": "Beta Marae II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Beta Marae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Beta Marae II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Beta Marae II-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Beta_Marae_II-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Marae_II-b",
+      "sourcePage": "Beta Marae II-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Beta Marae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Beta Marae II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Asteroid"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

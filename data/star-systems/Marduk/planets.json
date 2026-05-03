@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Marduk",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Marduk",
+  "sourcePage": "Marduk",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Marduk"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Marduk I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Marduk_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Marduk_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Marduk_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Marduk_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Marduk_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Marduk_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Marduk_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Marduk_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Marduk IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Marduk_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Marduk/planets/Marduk_IX-moons.json"
+    }
+  ]
+}

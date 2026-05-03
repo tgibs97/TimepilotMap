@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Al-Battani",
+  "planetName": "Al-Battani IV",
+  "planetWikiPath": "/wiki/Al-Battani_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Al-Battani IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Al-Battani_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_IV-a",
+      "sourcePage": "Al-Battani IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Al-Battani IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Al-Battani IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Al-Battani_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_IV-b",
+      "sourcePage": "Al-Battani IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Al-Battani IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Asteroid"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

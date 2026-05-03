@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Khayyam",
+  "planetName": "Khayyam VI",
+  "planetWikiPath": "/wiki/Khayyam_VI",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Khayyam VI-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Khayyam_VI-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_VI-a",
+      "sourcePage": "Khayyam VI-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.35 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Khayyam VI-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Khayyam_VI-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_VI-b",
+      "sourcePage": "Khayyam VI-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.25 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Khayyam VI-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Khayyam_VI-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_VI-c",
+      "sourcePage": "Khayyam VI-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Khayyam VI-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Khayyam_VI-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_VI-d",
+      "sourcePage": "Khayyam VI-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "none"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Khayyam VI-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Khayyam_VI-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_VI-e",
+      "sourcePage": "Khayyam VI-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "None"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

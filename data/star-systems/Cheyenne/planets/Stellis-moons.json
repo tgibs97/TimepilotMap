@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Cheyenne",
+  "planetName": "Stellis",
+  "planetWikiPath": "/wiki/Stellis",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Stellis A",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Stellis_A",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Stellis_A",
+      "sourcePage": "Stellis A",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Stellis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.40 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem; Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Stellis B",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Stellis_B",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Stellis_B",
+      "sourcePage": "Stellis B",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Stellis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Stellis C",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Stellis_C",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Stellis_C",
+      "sourcePage": "Stellis C",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Stellis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.35 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Stellis D",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Stellis_D",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Stellis_D",
+      "sourcePage": "Stellis D",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Stellis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

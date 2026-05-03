@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Guniibuu",
+  "planetName": "Guniibuu V",
+  "planetWikiPath": "/wiki/Guniibuu_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Guniibuu V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Guniibuu_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_V-a",
+      "sourcePage": "Guniibuu V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Guniibuu_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_V-b",
+      "sourcePage": "Guniibuu V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.22 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu V-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Guniibuu_V-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_V-c",
+      "sourcePage": "Guniibuu V-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.39 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu V-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Guniibuu_V-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_V-d",
+      "sourcePage": "Guniibuu V-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.23 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu V-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Guniibuu_V-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_V-e",
+      "sourcePage": "Guniibuu V-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.25 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

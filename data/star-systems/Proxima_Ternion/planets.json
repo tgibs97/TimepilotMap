@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Proxima Ternion",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Proxima_Ternion",
+  "sourcePage": "Proxima Ternion",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Proxima Ternion"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Proxima Ternion I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Proxima_Ternion_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Proxima_Ternion/planets/Proxima_Ternion_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Proxima Ternion II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Proxima_Ternion_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Proxima_Ternion/planets/Proxima_Ternion_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Proxima Ternion III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Proxima_Ternion_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Proxima_Ternion/planets/Proxima_Ternion_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Proxima Ternion IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Proxima_Ternion_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Proxima_Ternion/planets/Proxima_Ternion_IV-moons.json"
+    }
+  ]
+}

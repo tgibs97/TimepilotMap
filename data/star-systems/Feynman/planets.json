@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Feynman",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Feynman",
+  "sourcePage": "Feynman",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Feynman"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Feynman I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Feynman_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Feynman_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Feynman_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Feynman_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Feynman_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Feynman_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Feynman_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Feynman_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Feynman IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Feynman_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Feynman/planets/Feynman_IX-moons.json"
+    }
+  ]
+}

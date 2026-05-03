@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Procyon A",
+  "planetName": "Procyon VI",
+  "planetWikiPath": "/wiki/Procyon_VI",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Procyon VI-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Procyon_VI-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_VI-a",
+      "sourcePage": "Procyon VI-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Procyon VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Procyon VI-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Procyon_VI-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_VI-b",
+      "sourcePage": "Procyon VI-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Procyon VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.53 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD ₀ ₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Emerging Tectonics"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Procyon VI-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Procyon_VI-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_VI-c",
+      "sourcePage": "Procyon VI-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Procyon VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.34 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

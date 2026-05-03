@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Jaffa",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Jaffa",
+  "sourcePage": "Jaffa",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Jaffa"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Jaffa I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Jaffa_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Jaffa_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Jaffa_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Jaffa_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Jaffa_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Jaffa_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Jaffa_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Jaffa VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Jaffa_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Jaffa/planets/Jaffa_VIII-moons.json"
+    }
+  ]
+}

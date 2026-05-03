@@ -1,0 +1,119 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Eta Cassiopeia",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Eta_Cassiopeia",
+  "sourcePage": "Eta Cassiopeia",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Eta Cassiopeia"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Cassiopeia I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Cassiopeia_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cassiopeia_I",
+      "sourcePage": "Cassiopeia I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cassiopeia"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Standard O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Psychotropic Biota; Aeriform Life; Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Eta_Cassiopeia/planets/Cassiopeia_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cassiopeia II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Cassiopeia_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Eta_Cassiopeia/planets/Cassiopeia_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cassiopeia III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Cassiopeia_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Eta_Cassiopeia/planets/Cassiopeia_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cassiopeia IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Cassiopeia_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cassiopeia_IV",
+      "sourcePage": "Cassiopeia IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cassiopeia"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Eta_Cassiopeia/planets/Cassiopeia_IV-moons.json"
+    }
+  ]
+}

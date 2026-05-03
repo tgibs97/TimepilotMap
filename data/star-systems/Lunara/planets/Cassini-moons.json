@@ -1,0 +1,201 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Lunara",
+  "planetName": "Cassini",
+  "planetWikiPath": "/wiki/Cassini",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Lillius",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Lillius",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Lillius",
+      "sourcePage": "Lillius",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cassini"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.27 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Gasparis",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Gasparis",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Gasparis",
+      "sourcePage": "Gasparis",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cassini"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.43 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Abetti",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Abetti",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Abetti",
+      "sourcePage": "Abetti",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cassini"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.22 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Cheyenne",
+  "planetName": "Akila",
+  "planetWikiPath": "/wiki/Akila",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Antharum",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Antharum",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Antharum",
+      "sourcePage": "Antharum",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Akila"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Bindi",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bindi",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bindi",
+      "sourcePage": "Bindi",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Akila"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.23 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Codos",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Codos",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Codos",
+      "sourcePage": "Codos",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Akila"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.40 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

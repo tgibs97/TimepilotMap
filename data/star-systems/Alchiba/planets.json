@@ -1,0 +1,224 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Alchiba",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Alchiba",
+  "sourcePage": "Alchiba",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Alchiba"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Alchiba I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Alchiba_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Alchiba_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Alchiba_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Alchiba_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alchiba_IV",
+      "sourcePage": "Alchiba IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alchiba"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.8 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Standard M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gravitational Anomaly"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Alchiba_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Alchiba_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Alchiba_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Alchiba_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Alchiba_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_IX-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alchiba X",
+      "orbitIndex": 10,
+      "wikiPath": "/wiki/Alchiba_X",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alchiba_X",
+      "sourcePage": "Alchiba X",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alchiba"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Alchiba"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.66 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Alchiba/planets/Alchiba_X-moons.json"
+    }
+  ]
+}

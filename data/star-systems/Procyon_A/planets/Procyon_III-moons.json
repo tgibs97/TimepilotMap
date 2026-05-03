@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Procyon A",
+  "planetName": "Procyon III",
+  "planetWikiPath": "/wiki/Procyon_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Procyon III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Procyon_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Procyon_III-a",
+      "sourcePage": "Procyon III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Procyon A"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Procyon III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.10 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

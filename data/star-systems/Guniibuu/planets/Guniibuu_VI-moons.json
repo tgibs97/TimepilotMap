@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Guniibuu",
+  "planetName": "Guniibuu VI",
+  "planetWikiPath": "/wiki/Guniibuu_VI",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Guniibuu VI-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Guniibuu_VI-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_VI-a",
+      "sourcePage": "Guniibuu VI-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.29 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu VI-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Guniibuu_VI-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_VI-b",
+      "sourcePage": "Guniibuu VI-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.55 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (3)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life; Ecological Consortium"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu VI-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Guniibuu_VI-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_VI-c",
+      "sourcePage": "Guniibuu VI-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "None"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu VI-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Guniibuu_VI-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_VI-d",
+      "sourcePage": "Guniibuu VI-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.63 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂ (TOX)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass; Amphibious Foothold; Sentient Microbial Colonies; Primordial Network"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Guniibuu VI-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Guniibuu_VI-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Guniibuu_VI-e",
+      "sourcePage": "Guniibuu VI-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Guniibuu"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Guniibuu VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

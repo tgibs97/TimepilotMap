@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Maheo",
+  "planetName": "Maheo IV",
+  "planetWikiPath": "/wiki/Maheo_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Maheo IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Maheo_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_IV-a",
+      "sourcePage": "Maheo IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Maheo IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Maheo IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Maheo_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_IV-b",
+      "sourcePage": "Maheo IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Maheo IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Maheo IV-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Maheo_IV-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_IV-c",
+      "sourcePage": "Maheo IV-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Maheo IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.68 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold; Coralline Landmass; Ecological Consortium"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Maheo IV-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Maheo_IV-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_IV-d",
+      "sourcePage": "Maheo IV-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Maheo IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.24 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Slushy Subsurface Seas"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

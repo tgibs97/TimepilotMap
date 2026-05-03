@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Heinlein",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Heinlein",
+  "sourcePage": "Heinlein",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Heinlein"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Heinlein I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Heinlein_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heinlein II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Heinlein_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heinlein III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Heinlein_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heinlein IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Heinlein_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heinlein V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Heinlein_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heinlein VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Heinlein_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heinlein VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Heinlein_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heinlein/planets/Heinlein_VII-moons.json"
+    }
+  ]
+}

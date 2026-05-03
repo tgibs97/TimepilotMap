@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Carinae",
+  "planetName": "Carinae II",
+  "planetWikiPath": "/wiki/Carinae_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Carinae II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Carinae_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_II-a",
+      "sourcePage": "Carinae II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.27 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

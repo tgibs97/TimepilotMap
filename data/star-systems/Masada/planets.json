@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Masada",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Masada",
+  "sourcePage": "Masada",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Masada"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Masada I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Masada_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Masada_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Masada_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Masada_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Masada_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Masada_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Masada_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Masada_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Masada IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Masada_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Masada/planets/Masada_IX-moons.json"
+    }
+  ]
+}

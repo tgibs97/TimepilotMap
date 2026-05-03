@@ -1,0 +1,313 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Lunara",
+  "planetName": "Okoro",
+  "planetWikiPath": "/wiki/Okoro",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Okoro Alpha",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Okoro_Alpha",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Okoro_Alpha",
+      "sourcePage": "Okoro Alpha",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Okoro"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Okoro Beta",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Okoro_Beta",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Okoro_Beta",
+      "sourcePage": "Okoro Beta",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Okoro"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Okoro Gamma",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Okoro_Gamma",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Okoro_Gamma",
+      "sourcePage": "Okoro Gamma",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Okoro"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Okoro Delta",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Okoro_Delta",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Okoro_Delta",
+      "sourcePage": "Okoro Delta",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Okoro"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.38 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Okoro Epsilon",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Okoro_Epsilon",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Okoro_Epsilon",
+      "sourcePage": "Okoro Epsilon",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Okoro"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

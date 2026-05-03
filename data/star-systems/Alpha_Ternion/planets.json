@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Alpha Ternion",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Ternion",
+  "sourcePage": "Alpha Ternion",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Alpha Ternion"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Ternion I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Ternion_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Ternion_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Ternion_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Ternion_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Ternion_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Ternion_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Ternion_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Ternion_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ternion IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Ternion_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Ternion/planets/Ternion_IX-moons.json"
+    }
+  ]
+}

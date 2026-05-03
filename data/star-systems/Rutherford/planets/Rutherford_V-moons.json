@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Rutherford",
+  "planetName": "Rutherford V",
+  "planetWikiPath": "/wiki/Rutherford_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Rutherford V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Rutherford_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_V-a",
+      "sourcePage": "Rutherford V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.53 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rutherford V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rutherford_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rutherford_V-b",
+      "sourcePage": "Rutherford V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rutherford"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Rutherford V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.34 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M (COR)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Continual Conductor"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

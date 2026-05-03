@@ -1,0 +1,470 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Sol",
+  "planetName": "Saturn",
+  "planetWikiPath": "/wiki/Saturn",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Dione",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Dione",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Dione",
+      "sourcePage": "Dione",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.02 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Enceladus",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Enceladus",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Enceladus",
+      "sourcePage": "Enceladus",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Iapetus",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Iapetus",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Iapetus",
+      "sourcePage": "Iapetus",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.02 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Mimas",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Mimas",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Mimas",
+      "sourcePage": "Mimas",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rhea",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Rhea",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rhea",
+      "sourcePage": "Rhea",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.03 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Tethys",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Tethys",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Tethys",
+      "sourcePage": "Tethys",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Titan",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Titan",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Titan",
+      "sourcePage": "Titan",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Saturn"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

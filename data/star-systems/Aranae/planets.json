@@ -1,0 +1,328 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Aranae",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Aranae",
+  "sourcePage": "Aranae",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Aranae"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Aranae I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Aranae_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Aranae_I",
+      "sourcePage": "Aranae I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Aranae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.02 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Primordial"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Bolide Bombardment"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Aranae/planets/Aranae_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Aranae II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Aranae_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Aranae_II",
+      "sourcePage": "Aranae II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Aranae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.73 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Aranae/planets/Aranae_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Aranae III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Aranae_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Aranae_III",
+      "sourcePage": "Aranae III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Aranae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.60 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Aranae/planets/Aranae_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Aranae IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Aranae_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Aranae_IV",
+      "sourcePage": "Aranae IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Aranae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.91 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Aranae/planets/Aranae_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Aranae V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Aranae_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Aranae_V",
+      "sourcePage": "Aranae V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Aranae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.37 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Aranae/planets/Aranae_V-moons.json"
+    }
+  ]
+}

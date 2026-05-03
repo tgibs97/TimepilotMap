@@ -1,0 +1,202 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Sirius",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Sirius",
+  "sourcePage": "Sirius",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Sirius"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Sirius I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Sirius_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Sirius_I",
+      "sourcePage": "Sirius I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sirius"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.54 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Charred Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sirius/planets/Sirius_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sirius II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Sirius_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Sirius_II",
+      "sourcePage": "Sirius II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sirius"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.38 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Slushy Subsurface Seas"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Sirius/planets/Sirius_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sirius III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Sirius_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Sirius_III",
+      "sourcePage": "Sirius III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sirius"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "5.90 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Sirius/planets/Sirius_III-moons.json"
+    }
+  ]
+}

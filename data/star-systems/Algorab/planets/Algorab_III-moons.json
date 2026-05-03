@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Algorab",
+  "planetName": "Algorab III",
+  "planetWikiPath": "/wiki/Algorab_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Algorab III-b",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Algorab_III-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Algorab_III-b",
+      "sourcePage": "Algorab III-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Algorab"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Algorab III"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

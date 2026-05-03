@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Lunara",
+  "planetName": "Gaea",
+  "planetWikiPath": "/wiki/Gaea",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Coeus",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Coeus",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Coeus",
+      "sourcePage": "Coeus",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Gaea"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.23 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Crius",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Crius",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Crius",
+      "sourcePage": "Crius",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Gaea"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.33 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Foucault",
+  "planetName": "Foucault V",
+  "planetWikiPath": "/wiki/Foucault_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Foucault V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Foucault_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_V-a",
+      "sourcePage": "Foucault V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.03 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Foucault_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_V-b",
+      "sourcePage": "Foucault V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.66 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault V-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Foucault_V-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_V-c",
+      "sourcePage": "Foucault V-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.22 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault V-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Foucault_V-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_V-d",
+      "sourcePage": "Foucault V-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem; Emerging Tectonics; Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

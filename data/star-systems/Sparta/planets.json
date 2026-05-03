@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Sparta",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Sparta",
+  "sourcePage": "Sparta",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Sparta"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Sparta I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Sparta_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Sparta_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Sparta_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Sparta_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Sparta_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Sparta_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Sparta_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sparta VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Sparta_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Sparta/planets/Sparta_VIII-moons.json"
+    }
+  ]
+}

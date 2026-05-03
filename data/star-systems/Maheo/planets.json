@@ -1,0 +1,444 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Maheo",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Maheo",
+  "sourcePage": "Maheo",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Maheo"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Maheo I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Maheo_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_I",
+      "sourcePage": "Maheo I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.39 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (0)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (3)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Diseased Biosphere; Global Glacial Recession"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maheo II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Maheo_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_II",
+      "sourcePage": "Maheo II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.52 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Emerging Tectonics"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maheo III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Maheo_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_III",
+      "sourcePage": "Maheo III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.85 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maheo IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Maheo_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_IV",
+      "sourcePage": "Maheo IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "4.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maheo V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Maheo_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_V",
+      "sourcePage": "Maheo V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.34 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maheo VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Maheo_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_VI",
+      "sourcePage": "Maheo VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.71 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maheo VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Maheo_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_VII",
+      "sourcePage": "Maheo VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.27 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Maheo/planets/Maheo_VII-moons.json"
+    }
+  ]
+}

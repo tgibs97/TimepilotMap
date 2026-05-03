@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Piazzi",
+  "planetName": "Piazzi V",
+  "planetWikiPath": "/wiki/Piazzi_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Piazzi V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Piazzi_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_V-a",
+      "sourcePage": "Piazzi V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Piazzi V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.28 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Piazzi V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Piazzi_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_V-b",
+      "sourcePage": "Piazzi V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Piazzi V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Piazzi V-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Piazzi_V-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_V-c",
+      "sourcePage": "Piazzi V-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Piazzi V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.21 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

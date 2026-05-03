@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Pyraas",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Pyraas",
+  "sourcePage": "Pyraas",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Pyraas"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Pyraas I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Pyraas_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Pyraas_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Pyraas_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Pyraas_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Pyraas_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Pyraas_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Pyraas_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Pyraas VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Pyraas_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Pyraas/planets/Pyraas_VIII-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Carinae",
+  "planetName": "Carinae V",
+  "planetWikiPath": "/wiki/Carinae_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Carinae V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Carinae_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_V-a",
+      "sourcePage": "Carinae V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Carinae V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Carinae_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_V-b",
+      "sourcePage": "Carinae V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.30 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Carinae V-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Carinae_V-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_V-c",
+      "sourcePage": "Carinae V-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.58 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

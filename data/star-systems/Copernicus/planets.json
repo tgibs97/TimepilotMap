@@ -1,0 +1,517 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Copernicus",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus",
+  "sourcePage": "Copernicus",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Copernicus"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Copernicus I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Copernicus_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_I",
+      "sourcePage": "Copernicus I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.70 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Energetic Rifting; Prismatic Plumes; Active Faulting"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Copernicus_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_II",
+      "sourcePage": "Copernicus II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.53 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂ (TOX)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate (7)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (5)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold; Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Copernicus_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_III",
+      "sourcePage": "Copernicus III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.62 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (3)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold; Global Glacial Recession; Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Copernicus_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_IV",
+      "sourcePage": "Copernicus IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.42 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (5)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Copernicus_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_V",
+      "sourcePage": "Copernicus V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.86 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Copernicus_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_VI",
+      "sourcePage": "Copernicus VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.59 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Copernicus_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_VII",
+      "sourcePage": "Copernicus VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.58 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Copernicus VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Copernicus_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_VIII",
+      "sourcePage": "Copernicus VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.37 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Copernicus/planets/Copernicus_VIII-moons.json"
+    }
+  ]
+}

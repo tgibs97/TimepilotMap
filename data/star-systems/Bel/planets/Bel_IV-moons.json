@@ -1,0 +1,318 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bel",
+  "planetName": "Bel IV",
+  "planetWikiPath": "/wiki/Bel_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Bel IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bel_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_IV-a",
+      "sourcePage": "Bel IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bel IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.32 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Bel IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bel_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_IV-b",
+      "sourcePage": "Bel IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bel IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Bel IV-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Bel_IV-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_IV-c",
+      "sourcePage": "Bel IV-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bel IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.48 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M (Cor)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Global Glacial Recession; Emerging Tectonics; Aeriform Life"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Bel IV-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Bel_IV-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_IV-d",
+      "sourcePage": "Bel IV-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bel IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.36 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Bel IV-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Bel_IV-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_IV-e",
+      "sourcePage": "Bel IV-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bel IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.02 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

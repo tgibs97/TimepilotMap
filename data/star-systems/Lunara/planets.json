@@ -1,0 +1,497 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Lunara",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Lunara",
+  "sourcePage": "Lunara",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Lunara"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Numitor",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Numitor",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Numitor",
+      "sourcePage": "Numitor",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.89 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Lunara/planets/Numitor-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Vesta",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Vesta",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Vesta",
+      "sourcePage": "Vesta",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.63 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂ (TOX)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (7)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Diseased Biosphere; Psychotropic Biota; Global Glacial Recession"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Lunara/planets/Vesta-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Petria",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Petria",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Petria",
+      "sourcePage": "Petria",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Lunara/planets/Petria-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Gaea",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Gaea",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Gaea",
+      "sourcePage": "Gaea",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.71 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Lunara/planets/Gaea-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cassini",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Cassini",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cassini",
+      "sourcePage": "Cassini",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Lunara/planets/Cassini-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Okoro",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Okoro",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Okoro",
+      "sourcePage": "Okoro",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Lunara/planets/Okoro-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cthol",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Cthol",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cthol",
+      "sourcePage": "Cthol",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.44 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Lunara/planets/Cthol-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Reva's World",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Reva%27s_World",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Reva's_World",
+      "sourcePage": "Reva's World",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lunara/planets/Reva_s_World-moons.json"
+    }
+  ]
+}

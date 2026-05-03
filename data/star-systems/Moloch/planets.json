@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Moloch",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Moloch",
+  "sourcePage": "Moloch",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Moloch"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Moloch I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Moloch_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Moloch_I",
+      "sourcePage": "Moloch I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Moloch"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Moloch II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Moloch_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Moloch III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Moloch_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Moloch IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Moloch_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Moloch V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Moloch_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Moloch VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Moloch_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Moloch VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Moloch_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Moloch/planets/Moloch_VII-moons.json"
+    }
+  ]
+}

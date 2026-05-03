@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Syrma",
+  "planetName": "Syrma I",
+  "planetWikiPath": "/wiki/Syrma_I",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Syrma I-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Syrma_I-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_I-a",
+      "sourcePage": "Syrma I-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Syrma I-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Syrma_I-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_I-b",
+      "sourcePage": "Syrma I-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.21 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

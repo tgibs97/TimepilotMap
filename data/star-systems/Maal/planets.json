@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Maal",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Maal",
+  "sourcePage": "Maal",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Maal"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Maal I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Maal_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Maal_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Maal_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Maal_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Maal_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Maal_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Maal_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Maal_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Maal_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_IX-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Maal X",
+      "orbitIndex": 10,
+      "wikiPath": "/wiki/Maal_X",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Maal/planets/Maal_X-moons.json"
+    }
+  ]
+}

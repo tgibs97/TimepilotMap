@@ -1,0 +1,212 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Groombridge",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Groombridge",
+  "sourcePage": "Groombridge",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Groombridge"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Groombridge I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Groombridge_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Groombridge_I",
+      "sourcePage": "Groombridge I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Groombridge"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.57 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Global Glacial Recession"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Groombridge II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Groombridge_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Groombridge_II",
+      "sourcePage": "Groombridge II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Groombridge"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "EXTR M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Prismatic Plumes; Sonorous Lithosphere; Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Groombridge III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Groombridge_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Groombridge IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Groombridge_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Groombridge V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Groombridge_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Groombridge VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Groombridge_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Grommbridge VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Grommbridge_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Groombridge/planets/Grommbridge_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Groombridge VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Groombridge_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Groombridge_VIII",
+      "sourcePage": "Groombridge VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Groombridge"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Groombridge/planets/Groombridge_VIII-moons.json"
+    }
+  ]
+}

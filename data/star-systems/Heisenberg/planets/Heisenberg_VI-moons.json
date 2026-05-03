@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Heisenberg",
+  "planetName": "Heisenberg VI",
+  "planetWikiPath": "/wiki/Heisenberg_VI",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Heisenberg VI-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Heisenberg_VI-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_VI-a",
+      "sourcePage": "Heisenberg VI-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Heisenberg VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Heisenberg VI-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Heisenberg_VI-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_VI-b",
+      "sourcePage": "Heisenberg VI-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Heisenberg VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Heisenberg VI-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Heisenberg_VI-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_VI-c",
+      "sourcePage": "Heisenberg VI-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Heisenberg VI"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

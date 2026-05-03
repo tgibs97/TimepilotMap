@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Copernicus",
+  "planetName": "Copernicus VII",
+  "planetWikiPath": "/wiki/Copernicus_VII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Copernicus VII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Copernicus_VII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_VII-a",
+      "sourcePage": "Copernicus VII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Copernicus VII-a"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.64 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life; Global Glacial Recession"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Copernicus VII-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Copernicus_VII-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Copernicus_VII-b",
+      "sourcePage": "Copernicus VII-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Copernicus"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Copernicus VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

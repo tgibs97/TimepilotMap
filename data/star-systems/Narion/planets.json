@@ -1,0 +1,444 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Narion",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Narion",
+  "sourcePage": "Narion",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Narion"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Niira",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Niira",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Niira",
+      "sourcePage": "Niira",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.61 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M (Tox)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (2)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Charred Ecosystem; Coralline Landmass; Global Glacial Recession"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Narion/planets/Niira-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Sumati",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Sumati",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Sumati",
+      "sourcePage": "Sumati",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.89 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Diseased Biosphere; Global Glacial Recession; Psychotropic Biota"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Narion/planets/Sumati-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Danra",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Danra",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Danra",
+      "sourcePage": "Danra",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.44 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Narion/planets/Danra-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Magreth",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Magreth",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Magreth",
+      "sourcePage": "Magreth",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.98 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Narion/planets/Magreth-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Deepala",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Deepala",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Deepala",
+      "sourcePage": "Deepala",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.39 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Narion/planets/Deepala-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Anselon",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Anselon",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Anselon",
+      "sourcePage": "Anselon",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.81 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Narion/planets/Anselon-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cruth",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Cruth",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cruth",
+      "sourcePage": "Cruth",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.20 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Narion/planets/Cruth-moons.json"
+    }
+  ]
+}

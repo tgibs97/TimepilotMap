@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Indum",
+  "planetName": "Indum V",
+  "planetWikiPath": "/wiki/Indum_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Indum V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Indum_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Indum_V-a",
+      "sourcePage": "Indum V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Indum"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Indum V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.30 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

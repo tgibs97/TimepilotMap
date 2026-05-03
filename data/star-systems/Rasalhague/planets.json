@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Rasalhague",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Rasalhague",
+  "sourcePage": "Rasalhague",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Rasalhague"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Rasalhague I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Rasalhague_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rasalhague/planets/Rasalhague_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rasalhague II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rasalhague_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rasalhague/planets/Rasalhague_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rasalhague III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Rasalhague_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rasalhague/planets/Rasalhague_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rasalhague IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Rasalhague_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rasalhague/planets/Rasalhague_IV-moons.json"
+    }
+  ]
+}

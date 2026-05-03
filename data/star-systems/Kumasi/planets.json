@@ -1,0 +1,555 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Kumasi",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi",
+  "sourcePage": "Kumasi",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Kumasi"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Kumasi I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Kumasi_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_I",
+      "sourcePage": "Kumasi I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.69 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold; Primordial Network"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Kumasi_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_II",
+      "sourcePage": "Kumasi II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.96 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Abundant (10)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Abundant (8)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Kumasi_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_III",
+      "sourcePage": "Kumasi III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.57 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (3)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold; Diseased Biosphere; Aeriform Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Kumasi_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_IV",
+      "sourcePage": "Kumasi IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Frozen Ecosystem; Primed For Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Kumasi_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_V",
+      "sourcePage": "Kumasi V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Kumasi_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VI",
+      "sourcePage": "Kumasi VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.56 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Kumasi_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VII",
+      "sourcePage": "Kumasi VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.77 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Kumasi_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_VIII",
+      "sourcePage": "Kumasi VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.47 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kumasi IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Kumasi_IX",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_IX",
+      "sourcePage": "Kumasi IX",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kumasi/planets/Kumasi_IX-moons.json"
+    }
+  ]
+}

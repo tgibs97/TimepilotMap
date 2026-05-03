@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "McClure",
+  "sourceUrl": "https://starfield.fandom.com/wiki/McClure",
+  "sourcePage": "McClure",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "McClure"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "McClure I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/McClure_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/McClure/planets/McClure_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "McClure II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/McClure_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/McClure/planets/McClure_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "McClure III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/McClure_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/McClure/planets/McClure_III-moons.json"
+    }
+  ]
+}

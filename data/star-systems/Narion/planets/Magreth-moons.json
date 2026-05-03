@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Narion",
+  "planetName": "Magreth",
+  "planetWikiPath": "/wiki/Magreth",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Hyperia",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Hyperia",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyperia",
+      "sourcePage": "Hyperia",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Magreth"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.08 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

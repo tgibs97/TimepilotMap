@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Andromas",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Andromas",
+  "sourcePage": "Andromas",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Andromas"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Andromas I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Andromas_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Andromas_I",
+      "sourcePage": "Andromas I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Andromas"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin C₀ ₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Continual Conductor"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Andromas/planets/Andromas_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Andromas II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Andromas_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Andromas_II",
+      "sourcePage": "Andromas II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Andromas"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.50 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Extr O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Andromas/planets/Andromas_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Andromas III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Andromas_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Andromas_III",
+      "sourcePage": "Andromas III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Andromas"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.35 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Andromas/planets/Andromas_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Andromas IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Andromas_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Andromas_IV",
+      "sourcePage": "Andromas IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Andromas"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.41 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Andromas/planets/Andromas_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Andromas V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Andromas_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Andromas_V",
+      "sourcePage": "Andromas V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Andromas"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.87 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Andromas/planets/Andromas_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Andromas VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Andromas_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Andromas_VI",
+      "sourcePage": "Andromas VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Andromas"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.57 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Andromas/planets/Andromas_VI-moons.json"
+    }
+  ]
+}
