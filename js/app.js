@@ -1,5 +1,4 @@
 import { TIMEPILOT_MAP as data } from "./map-data.js";
-import { TIMEPILOT_SYSTEM_DETAILS as wikiDetails } from "./system-details.js";
 import { FIELD_INFO, LIGHTYEARS_PER_MAP_UNIT } from "./constants.js";
 import { getDomRefs } from "./dom.js";
 import { drawBackground, drawRoutes, drawSectorGrid, drawSystems } from "./map-renderer.js";
@@ -13,10 +12,12 @@ const byName = new Map(data.systems.map((system) => [system.name, system]));
 const linkMap = buildLinkMap(data);
 const systemEls = new Map();
 const SYSTEM_OBJECT_MANIFEST = "./data/star-systems/manifest.json";
+const SYSTEM_DETAILS_PATH = "./data/system-details.json";
 
 // Transform values are SVG viewBox offsets after scale, matching the matrix in updateTransform().
 let selectedName = null;
 let activeView = "map";
+let wikiDetails = {};
 let systemObjectManifest = null;
 const systemObjectCache = new Map();
 let transform = { x: 0, y: 0, scale: 1 };
@@ -140,6 +141,11 @@ async function loadJson(path) {
   const response = await fetch(path);
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
+}
+
+async function loadSystemDetails() {
+  // System details are wiki-derived static data, so JSON keeps data separate from app logic.
+  wikiDetails = await loadJson(SYSTEM_DETAILS_PATH);
 }
 
 async function loadSystemObjectManifest() {
@@ -741,7 +747,8 @@ function bindEvents() {
 }
 
 // Initial render order matters: background, optional grid, routes, then clickable systems.
-function init() {
+async function init() {
+  await loadSystemDetails();
   drawBackground({ data, starsLayer: dom.starsLayer });
   drawSectorGrid({ data, sectorGridLayer: dom.sectorGridLayer });
   drawRoutes({ data, byName, routesLayer: dom.routesLayer });
