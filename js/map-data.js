@@ -5,12 +5,12 @@
 // - name: unique display name used by routes and search
 // - x/y: chart position in viewBox units
 // - rating: numeric value shown beside the system and in the detail panel
-// - group: color group, matching the keys in app.js colors
+// - group: fallback color group, matching the keys in constants.js colors
 // - size: optional radius override for visually important systems
 // - labelDx/labelDy/labelAnchor: optional label position override
 //
 // Routes are undirected pairs of system names. Keep route names in sync with systems[].
-window.TIMEPILOT_MAP = {
+export const TIMEPILOT_MAP = {
   width: 2048,
   height: 1137,
   systems: [

@@ -1,4 +1,4 @@
-window.TIMEPILOT_SYSTEM_DETAILS = {
+export const TIMEPILOT_SYSTEM_DETAILS = {
   "Alpha Andraste": {
     "faction": "None",
     "spectralClass": "G5",
