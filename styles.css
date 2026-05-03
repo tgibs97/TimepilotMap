@@ -150,7 +150,9 @@ input {
 .star-system-view {
   position: absolute;
   inset: 0;
-  overflow: auto;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  overflow: hidden;
   padding: 22px;
   background:
     radial-gradient(circle at 50% 45%, rgba(114, 214, 255, 0.08), transparent 34%),
@@ -257,6 +259,8 @@ input {
 .system-view-canvas {
   display: grid;
   gap: 18px;
+  min-height: 0;
+  width: 100%;
   max-width: 1320px;
   margin: 18px auto 0;
 }
@@ -264,7 +268,8 @@ input {
 .system-diagram {
   display: block;
   width: 100%;
-  min-height: 420px;
+  height: 100%;
+  min-height: 0;
   cursor: grab;
   touch-action: none;
   user-select: none;
@@ -296,6 +301,16 @@ input {
   filter: url(#system-view-star-glow);
 }
 
+.system-view-object {
+  cursor: pointer;
+}
+
+.system-view-object-hit {
+  fill: transparent;
+  stroke: none;
+  pointer-events: all;
+}
+
 .system-view-planet {
   stroke: rgba(255, 255, 255, 0.7);
   stroke-width: 1.1;
@@ -308,8 +323,15 @@ input {
   stroke-width: 1;
 }
 
+.system-view-object.is-selected-object .system-view-planet,
+.system-view-object.is-selected-object .system-view-moon {
+  stroke: var(--accent);
+  stroke-width: 2.4;
+}
+
 .system-view-star-label,
-.system-view-planet-label {
+.system-view-planet-label,
+.system-view-moon-label {
   fill: #f2fbfd;
   font-family: "Cascadia Mono", "Consolas", monospace;
   font-weight: 800;
@@ -330,18 +352,36 @@ input {
   stroke-width: 4px;
 }
 
-.system-object-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 12px;
+.system-view-moon-label {
+  fill: #c4d4da;
+  font-size: 8px;
+  stroke-width: 3px;
 }
 
-.system-object-card {
-  min-width: 0;
-  border: 1px solid var(--line);
+.system-view-object.is-selected-object .system-view-planet-label,
+.system-view-object.is-selected-object .system-view-moon-label {
+  fill: var(--accent);
+}
+
+.system-object-moons-panel button {
+  min-height: 30px;
+  border: 1px solid rgba(180, 215, 226, 0.2);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.025);
-  overflow: hidden;
+  padding: 6px 10px;
+  color: #c7d7dc;
+  background: rgba(255, 255, 255, 0.035);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.system-object-moons-panel button:hover,
+.system-object-moons-panel button:focus-visible,
+.system-object-moons-panel button.is-selected-object {
+  border-color: rgba(114, 214, 255, 0.45);
+  color: var(--accent);
+  background: rgba(114, 214, 255, 0.1);
+  outline: none;
 }
 
 .system-object-card summary,
@@ -908,7 +948,8 @@ input {
 }
 
 .panel-empty,
-.system-card {
+.system-card,
+.system-object-panel {
   min-height: 100%;
 }
 
@@ -967,6 +1008,25 @@ input {
   outline: none;
 }
 
+.system-object-system {
+  min-height: 34px;
+  flex: 0 0 auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--accent);
+  background: rgba(255, 255, 255, 0.03);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.system-object-system:hover,
+.system-object-system:focus-visible {
+  border-color: rgba(114, 214, 255, 0.45);
+  background: rgba(114, 214, 255, 0.12);
+  outline: none;
+}
+
 .system-swatch {
   width: 18px;
   height: 18px;
@@ -986,6 +1046,45 @@ input {
   margin: 5px 0 0;
   color: var(--muted);
   font-size: 13px;
+}
+
+.system-heading p button {
+  border: 0;
+  padding: 0;
+  color: var(--accent);
+  background: transparent;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.system-heading p button:hover,
+.system-heading p button:focus-visible {
+  color: var(--text);
+  outline: none;
+  text-decoration: underline;
+}
+
+.system-object-info-panel {
+  margin-top: 20px;
+}
+
+.system-object-moons-panel {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+}
+
+.system-object-moons-panel h3 {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.system-object-moons-panel > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .system-stats {

@@ -16,6 +16,17 @@ export function getDomRefs() {
     systemCard: document.getElementById("system-card"),
     systemClose: document.getElementById("system-close"),
     systemViewOpen: document.getElementById("system-view-open"),
+    systemObjectPanel: {
+      container: document.getElementById("system-object-panel"),
+      swatch: document.getElementById("object-detail-swatch"),
+      system: document.getElementById("object-detail-system"),
+      name: document.getElementById("object-detail-name"),
+      meta: document.getElementById("object-detail-meta"),
+      systemButton: document.getElementById("object-detail-system-button"),
+      info: document.getElementById("object-detail-info"),
+      moonsSection: document.getElementById("object-detail-moons-section"),
+      moons: document.getElementById("object-detail-moons")
+    },
     systemView: {
       container: document.getElementById("star-system-view"),
       back: document.getElementById("system-view-back"),

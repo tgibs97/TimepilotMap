@@ -2,7 +2,7 @@ import { TIMEPILOT_MAP as data } from "./map-data.js";
 import { FIELD_INFO, LIGHTYEARS_PER_MAP_UNIT } from "./constants.js";
 import { getDomRefs } from "./dom.js";
 import { drawBackground, drawRoutes, drawSectorGrid, drawSystems } from "./map-renderer.js";
-import { renderStarSystemView } from "./star-system-view.js";
+import { moonObjectId, planetObjectId, planetVisuals, renderStarSystemView } from "./star-system-view.js";
 import { systemVisuals } from "./star-visuals.js";
 import { createSvgElement, fieldValue, radiusValue, sectorFor } from "./utils.js";
 import { buildLinkMap, buildTravelLeg as createTravelLeg } from "./travel-routing.js";
@@ -20,6 +20,7 @@ let activeView = "map";
 let wikiDetails = {};
 let systemObjectManifest = null;
 const systemObjectCache = new Map();
+let selectedSystemObjectId = null;
 let transform = { x: 0, y: 0, scale: 1 };
 // The Star System View has its own transform so returning to the galaxy map preserves map pan/zoom.
 let systemViewTransform = { x: 0, y: 0, scale: 1 };
@@ -176,6 +177,141 @@ async function loadStarSystemObjects(system) {
   return objectData;
 }
 
+function defaultSystemObjectId(objectData) {
+  return objectData?.planets?.length ? planetObjectId(0) : null;
+}
+
+function findSystemObject(objectData, objectId) {
+  if (!objectData || !objectId) return null;
+
+  const [type, planetPart, moonPart] = objectId.split("-");
+  const planetIndex = Number(planetPart);
+  const planet = objectData.planets?.[planetIndex];
+  if (!planet) return null;
+
+  if (type === "planet") {
+    return { id: objectId, type, object: planet, planet, planetIndex };
+  }
+
+  const moonIndex = Number(moonPart);
+  const moon = planet.moons?.[moonIndex];
+  if (type === "moon" && moon) {
+    return { id: objectId, type, object: moon, planet, planetIndex, moonIndex };
+  }
+
+  return null;
+}
+
+function renderObjectPanelMeta(selection, systemName) {
+  dom.systemObjectPanel.meta.replaceChildren();
+  if (selection.type === "moon") {
+    const label = document.createElement("span");
+    const planetButton = document.createElement("button");
+
+    label.textContent = "Moon of ";
+    planetButton.type = "button";
+    planetButton.dataset.systemObjectId = planetObjectId(selection.planetIndex);
+    planetButton.textContent = selection.planet.name;
+    dom.systemObjectPanel.meta.append(label, planetButton);
+    return;
+  }
+
+  const count = selection.planet.moons.length;
+  dom.systemObjectPanel.meta.textContent = `${systemName} planet / ${count} ${count === 1 ? "moon" : "moons"}`;
+}
+
+function renderObjectInfo(info = []) {
+  dom.systemObjectPanel.info.replaceChildren();
+
+  if (!info.length) {
+    const empty = document.createElement("p");
+    empty.className = "system-info-empty";
+    empty.textContent = "General information unavailable";
+    dom.systemObjectPanel.info.appendChild(empty);
+    return;
+  }
+
+  const list = document.createElement("dl");
+  list.className = "system-general-info";
+  info.forEach((item) => {
+    const row = document.createElement("div");
+    const term = document.createElement("dt");
+    const detail = document.createElement("dd");
+    term.textContent = item.label;
+    detail.textContent = item.value;
+    row.append(term, detail);
+    list.appendChild(row);
+  });
+  dom.systemObjectPanel.info.appendChild(list);
+}
+
+function renderObjectMoons(selection) {
+  const moons = selection.planet.moons || [];
+  dom.systemObjectPanel.moons.replaceChildren();
+  dom.systemObjectPanel.moonsSection.classList.toggle("hidden", !moons.length);
+  if (!moons.length) return;
+
+  moons.forEach((moon, moonIndex) => {
+    const button = document.createElement("button");
+    const id = moonObjectId(selection.planetIndex, moonIndex);
+    button.type = "button";
+    button.dataset.systemObjectId = id;
+    button.classList.toggle("is-selected-object", id === selection.id);
+    button.textContent = moon.name;
+    dom.systemObjectPanel.moons.appendChild(button);
+  });
+}
+
+function updateSystemObjectSelection(objectId) {
+  dom.systemView.canvas.querySelectorAll("[data-system-object-id]").forEach((element) => {
+    element.classList.toggle("is-selected-object", element.dataset.systemObjectId === objectId);
+  });
+}
+
+function showSystemSummaryPanel() {
+  selectedSystemObjectId = null;
+  updateSystemObjectSelection(null);
+  dom.systemObjectPanel.container.classList.add("hidden");
+  dom.systemCard.classList.remove("hidden");
+  dom.systemViewOpen.classList.toggle("hidden", activeView === "system");
+}
+
+function showSystemObjectPanel(system, objectData, objectId) {
+  const selection = findSystemObject(objectData, objectId);
+  if (!selection) {
+    showSystemSummaryPanel();
+    return;
+  }
+
+  selectedSystemObjectId = selection.id;
+  closeFieldInfo();
+  dom.systemCard.classList.add("hidden");
+  dom.emptyPanel.classList.add("hidden");
+  dom.travelPanel.classList.add("hidden");
+  dom.systemObjectPanel.container.classList.remove("hidden");
+
+  dom.systemObjectPanel.swatch.style.background = selection.type === "planet"
+    ? planetVisuals(selection.planet).color
+    : "#dbe9ee";
+  dom.systemObjectPanel.swatch.style.color = dom.systemObjectPanel.swatch.style.background;
+  dom.systemObjectPanel.system.textContent = system.name;
+  dom.systemObjectPanel.name.textContent = selection.object.name;
+  renderObjectPanelMeta(selection, system.name);
+  renderObjectInfo(selection.object.generalInfo);
+  renderObjectMoons(selection);
+  updateSystemObjectSelection(selection.id);
+}
+
+function selectSystemObject(objectId) {
+  if (activeView !== "system" || !selectedName) return;
+
+  const system = byName.get(selectedName);
+  const objectData = systemObjectCache.get(selectedName);
+  if (!system || !objectData) return;
+
+  showSystemObjectPanel(system, objectData, objectId);
+}
+
 async function renderSelectedStarSystemView(system) {
   // Reuse star visuals so the system-view star color matches the main map marker.
   const visual = systemVisuals(system, wikiDetails);
@@ -197,6 +333,7 @@ async function renderSelectedStarSystemView(system) {
       objectData,
       starColor: visual.color
     });
+    showSystemObjectPanel(system, objectData, selectedSystemObjectId || defaultSystemObjectId(objectData));
     resetSystemView();
   } catch (error) {
     renderStarSystemView({
@@ -216,8 +353,10 @@ function openStarSystemView(name) {
   if (!system) return;
 
   // Opening the view still selects the system, preserving side-panel context and map highlighting.
+  selectedSystemObjectId = null;
   selectSystem(system.name);
   activeView = "system";
+  dom.systemViewOpen.classList.add("hidden");
   renderSelectedStarSystemView(system);
   resetSystemView();
   dom.mapStage.classList.add("is-system-view");
@@ -236,6 +375,7 @@ function closeStarSystemView() {
   dom.systemView.canvas.classList.remove("is-panning");
   dom.systemView.container.classList.add("hidden");
   dom.svg.classList.remove("hidden");
+  if (selectedName && !travelState.active) showSystemSummaryPanel();
 }
 
 // Route distances are calculated in map units, then displayed as lightyears.
@@ -272,7 +412,9 @@ function selectSystem(name) {
   dom.emptyPanel.classList.add("hidden");
   dom.travelPanel.classList.add("hidden");
   closeFieldInfo();
+  dom.systemObjectPanel.container.classList.add("hidden");
   dom.systemCard.classList.remove("hidden");
+  dom.systemViewOpen.classList.toggle("hidden", activeView === "system");
 }
 
 function handleSystemClick(name) {
@@ -289,7 +431,9 @@ function closeSystemCard() {
   closeStarSystemView();
   // Clearing selection returns the side panel to its empty placeholder state.
   selectedName = null;
+  selectedSystemObjectId = null;
   systemEls.forEach((el) => el.classList.remove("is-selected"));
+  dom.systemObjectPanel.container.classList.add("hidden");
   dom.systemCard.classList.add("hidden");
   dom.emptyPanel.classList.remove("hidden");
 }
@@ -619,6 +763,21 @@ function bindEvents() {
     zoomSystemViewAt(event.clientX, event.clientY, event.deltaY < 0 ? 1.14 : 0.88);
   }, { passive: false });
 
+  dom.systemView.canvas.addEventListener("click", (event) => {
+    const target = event.target.closest("[data-system-object-id]");
+    if (activeView !== "system" || !target) return;
+    selectSystemObject(target.dataset.systemObjectId);
+  });
+
+  dom.systemView.canvas.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" && event.key !== " ") return;
+
+    const target = event.target.closest("[data-system-object-id]");
+    if (activeView !== "system" || !target) return;
+    event.preventDefault();
+    selectSystemObject(target.dataset.systemObjectId);
+  });
+
   dom.mapWrap.addEventListener("pointerdown", (event) => {
     if (activeView !== "map") return;
     if (event.button !== 0) return;
@@ -637,8 +796,14 @@ function bindEvents() {
 
   dom.systemView.canvas.addEventListener("pointerdown", (event) => {
     const svg = systemViewSvg();
-    // Dragging starts only on the SVG diagram; links in the object list remain clickable text.
-    if (activeView !== "system" || event.button !== 0 || !svg || !event.target.closest(".system-diagram")) return;
+    // Object clicks should select immediately; panning only starts on empty diagram space.
+    if (
+      activeView !== "system"
+      || event.button !== 0
+      || !svg
+      || !event.target.closest(".system-diagram")
+      || event.target.closest("[data-system-object-id]")
+    ) return;
 
     systemViewPointer = {
       id: event.pointerId,
@@ -705,6 +870,17 @@ function bindEvents() {
   dom.systemClose.addEventListener("click", closeSystemCard);
   dom.systemViewOpen.addEventListener("click", () => openStarSystemView(selectedName));
   dom.systemView.back.addEventListener("click", closeStarSystemView);
+  dom.systemObjectPanel.systemButton.addEventListener("click", showSystemSummaryPanel);
+  dom.systemObjectPanel.moons.addEventListener("click", (event) => {
+    const target = event.target.closest("[data-system-object-id]");
+    if (!target) return;
+    selectSystemObject(target.dataset.systemObjectId);
+  });
+  dom.systemObjectPanel.meta.addEventListener("click", (event) => {
+    const target = event.target.closest("[data-system-object-id]");
+    if (!target) return;
+    selectSystemObject(target.dataset.systemObjectId);
+  });
   dom.systemView.zoomIn.addEventListener("click", () => {
     const svg = systemViewSvg();
     if (!svg) return;
