@@ -136,10 +136,396 @@ input {
   cursor: grabbing;
 }
 
+.map-stage.is-system-view .topbar,
+.map-stage.is-system-view .zoom-controls {
+  display: none;
+}
+
 .star-map {
   display: block;
   width: 100%;
   height: 100%;
+}
+
+.star-system-view {
+  position: absolute;
+  inset: 0;
+  overflow: auto;
+  padding: 22px;
+  background:
+    radial-gradient(circle at 50% 45%, rgba(114, 214, 255, 0.08), transparent 34%),
+    linear-gradient(180deg, rgba(9, 16, 21, 0.98), rgba(4, 10, 14, 0.98));
+  cursor: auto;
+  user-select: text;
+}
+
+.system-view-header {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 18px;
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--line);
+}
+
+.system-view-header p,
+.system-view-header h2 {
+  margin: 0;
+}
+
+.system-view-header p {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.system-view-header h2 {
+  margin-top: 4px;
+  overflow-wrap: anywhere;
+  font-size: 46px;
+  line-height: 0.95;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.system-view-header span {
+  display: block;
+  margin-top: 7px;
+  color: #b7c9cf;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.system-view-controls {
+  display: grid;
+  grid-template-columns: 42px 42px 70px;
+  gap: 1px;
+  width: max-content;
+  justify-self: end;
+  overflow: hidden;
+  border: 1px solid rgba(175, 215, 230, 0.16);
+  border-radius: 8px;
+  background: rgba(9, 16, 21, 0.82);
+  box-shadow: var(--shadow);
+}
+
+.system-view-controls button {
+  min-width: 0;
+  height: 38px;
+  border: 0;
+  border-right: 1px solid rgba(175, 215, 230, 0.11);
+  color: var(--text);
+  background: transparent;
+  cursor: pointer;
+}
+
+.system-view-controls button:hover,
+.system-view-controls button:focus-visible {
+  background: rgba(114, 214, 255, 0.12);
+  outline: none;
+}
+
+.system-view-back,
+.system-view-open {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.035);
+  cursor: pointer;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.system-view-back {
+  min-height: 38px;
+  padding: 9px 12px;
+  font-size: 13px;
+}
+
+.system-view-back:hover,
+.system-view-back:focus-visible,
+.system-view-open:hover,
+.system-view-open:focus-visible {
+  border-color: rgba(114, 214, 255, 0.45);
+  background: rgba(114, 214, 255, 0.12);
+  outline: none;
+}
+
+.system-view-canvas {
+  display: grid;
+  gap: 18px;
+  max-width: 1320px;
+  margin: 18px auto 0;
+}
+
+.system-diagram {
+  display: block;
+  width: 100%;
+  min-height: 420px;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+
+.system-view-canvas.is-panning .system-diagram {
+  cursor: grabbing;
+}
+
+.system-view-orbit,
+.system-view-moon-orbit {
+  fill: none;
+  stroke: rgba(180, 215, 226, 0.18);
+  stroke-width: 1.25;
+}
+
+.system-view-orbit {
+  stroke-dasharray: 8 11;
+}
+
+.system-view-star-glow {
+  filter: url(#system-view-star-glow);
+  opacity: 0.7;
+}
+
+.system-view-star {
+  stroke: rgba(255, 255, 255, 0.82);
+  stroke-width: 1.4;
+  filter: url(#system-view-star-glow);
+}
+
+.system-view-planet {
+  stroke: rgba(255, 255, 255, 0.7);
+  stroke-width: 1.1;
+  filter: drop-shadow(0 0 8px rgba(114, 214, 255, 0.38));
+}
+
+.system-view-moon {
+  fill: #dbe9ee;
+  stroke: rgba(4, 9, 12, 0.82);
+  stroke-width: 1;
+}
+
+.system-view-star-label,
+.system-view-planet-label {
+  fill: #f2fbfd;
+  font-family: "Cascadia Mono", "Consolas", monospace;
+  font-weight: 800;
+  letter-spacing: 0;
+  paint-order: stroke;
+  stroke: rgba(4, 9, 12, 0.94);
+  stroke-linejoin: round;
+}
+
+.system-view-star-label {
+  font-size: 17px;
+  stroke-width: 5px;
+  text-transform: uppercase;
+}
+
+.system-view-planet-label {
+  font-size: 12px;
+  stroke-width: 4px;
+}
+
+.system-object-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+}
+
+.system-object-card {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.025);
+  overflow: hidden;
+}
+
+.system-object-card summary,
+.system-moon-card summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-width: 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+.system-object-card summary {
+  padding: 14px;
+}
+
+.system-moon-card summary {
+  padding: 10px;
+}
+
+.system-object-card summary::-webkit-details-marker,
+.system-moon-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.system-object-card summary::after,
+.system-moon-card summary::after {
+  content: "+";
+  width: 24px;
+  height: 24px;
+  flex: 0 0 auto;
+  border: 1px solid rgba(180, 215, 226, 0.2);
+  border-radius: 8px;
+  color: var(--accent);
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 22px;
+  text-align: center;
+}
+
+.system-object-card[open] > summary::after,
+.system-moon-card[open] > summary::after {
+  content: "-";
+}
+
+.system-object-card summary:hover,
+.system-object-card summary:focus-visible,
+.system-moon-card summary:hover,
+.system-moon-card summary:focus-visible {
+  background: rgba(114, 214, 255, 0.08);
+  outline: none;
+}
+
+.system-card-summary-text {
+  min-width: 0;
+}
+
+.system-object-card h3,
+.system-moon-card h3 {
+  margin: 0;
+  overflow-wrap: anywhere;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.system-object-body {
+  padding: 0 14px 14px;
+}
+
+.system-object-meta {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.system-general-info {
+  display: grid;
+  border: 1px solid rgba(180, 215, 226, 0.16);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.system-general-info div {
+  display: grid;
+  grid-template-columns: minmax(84px, 0.45fr) minmax(0, 1fr);
+  min-width: 0;
+  border-bottom: 1px solid rgba(180, 215, 226, 0.14);
+}
+
+.system-general-info div:last-child {
+  border-bottom: 0;
+}
+
+.system-general-info dt,
+.system-general-info dd {
+  min-width: 0;
+  margin: 0;
+  padding: 8px 9px;
+  overflow-wrap: anywhere;
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.system-general-info dt {
+  color: #dbe9ee;
+  font-weight: 800;
+}
+
+.system-general-info dd {
+  color: #a9c8d3;
+  border-left: 1px solid rgba(180, 215, 226, 0.14);
+}
+
+.system-info-empty {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.4;
+  text-transform: none;
+}
+
+.system-moon-section {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.system-moon-section h4 {
+  margin: 0;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.system-moon-section > span {
+  display: block;
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.system-moon-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.system-moon-card {
+  min-width: 0;
+  border: 1px solid rgba(180, 215, 226, 0.16);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.035);
+  overflow: hidden;
+}
+
+.system-moon-card h3 {
+  font-size: 13px;
+}
+
+.system-moon-card .system-object-body {
+  padding: 0 10px 10px;
+}
+
+.system-view-empty {
+  display: grid;
+  min-height: 360px;
+  place-items: center;
+  color: #c7d7dc;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.system-view-status {
+  max-width: 1320px;
+  margin: 12px auto 0;
+  color: #ffd166;
+  font-size: 12px;
+  font-weight: 800;
 }
 
 .space-bg {
@@ -656,6 +1042,13 @@ input {
   color: var(--text);
 }
 
+.system-view-open {
+  width: 100%;
+  min-height: 40px;
+  margin-bottom: 18px;
+  color: var(--accent);
+}
+
 .modal-backdrop {
   position: fixed;
   z-index: 20;
@@ -807,6 +1200,28 @@ input {
     min-height: 320px;
     border-top: 1px solid rgba(175, 215, 230, 0.16);
     border-left: 0;
+  }
+
+  .system-view-header {
+    grid-template-columns: 1fr auto;
+    align-items: start;
+  }
+
+  .system-view-back {
+    grid-column: 1 / 2;
+  }
+
+  .system-view-controls {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+  }
+
+  .system-view-header > div:not(.system-view-controls) {
+    grid-column: 1 / -1;
+  }
+
+  .system-view-header h2 {
+    font-size: 34px;
   }
 
 }

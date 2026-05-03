@@ -9,7 +9,7 @@
   <body>
     <main class="app-shell">
       <!-- Primary map workspace. The SVG layers are populated by the JavaScript modules. -->
-      <section class="map-stage" aria-label="Navigable star map">
+      <section class="map-stage" id="map-stage" aria-label="Navigable star map">
         <div class="topbar">
           <div class="brand">
             <span class="brand-mark"></span>
@@ -54,6 +54,25 @@
               <g id="systems-layer"></g>
             </g>
           </svg>
+
+          <section class="star-system-view hidden" id="star-system-view" aria-labelledby="system-view-title">
+            <header class="system-view-header">
+              <button class="system-view-back" id="system-view-back" type="button">Back to map</button>
+              <div>
+                <p>Star System View</p>
+                <h2 id="system-view-title"></h2>
+                <span id="system-view-summary"></span>
+              </div>
+              <div class="system-view-controls" aria-label="Star system view controls">
+                <button id="system-view-zoom-in" type="button" title="Zoom in">+</button>
+                <button id="system-view-zoom-out" type="button" title="Zoom out">-</button>
+                <button id="system-view-reset" type="button" title="Reset view">Reset</button>
+              </div>
+            </header>
+
+            <div class="system-view-canvas" id="system-view-canvas"></div>
+            <p class="system-view-status" id="system-view-status"></p>
+          </section>
         </div>
 
         <div class="zoom-controls" aria-label="Map controls">
@@ -118,6 +137,8 @@
               <dd id="detail-moons"></dd>
             </div>
           </dl>
+
+          <button class="system-view-open" id="system-view-open" type="button">View Star System</button>
 
           <section class="field-info-inline hidden" id="field-info-panel" aria-live="polite">
             <h3 id="field-info-title">Field Info</h3>

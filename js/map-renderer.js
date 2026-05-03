@@ -86,7 +86,7 @@ export function drawSectorGrid({ data, sectorGridLayer }) {
 }
 
 // Build every clickable system marker, including hit target, visual dot, and label.
-export function drawSystems({ data, wikiDetails, systemsLayer, systemEls, onSystemClick }) {
+export function drawSystems({ data, wikiDetails, systemsLayer, systemEls, onSystemClick, onSystemDoubleClick }) {
   const fragment = document.createDocumentFragment();
 
   data.systems.forEach((system) => {
@@ -123,6 +123,10 @@ export function drawSystems({ data, wikiDetails, systemsLayer, systemEls, onSyst
 
     group.append(hit, node, label);
     group.addEventListener("click", () => onSystemClick(system.name));
+    group.addEventListener("dblclick", () => {
+      // Double-click is a separate optional entry point for views layered above selection.
+      if (onSystemDoubleClick) onSystemDoubleClick(system.name);
+    });
     group.addEventListener("keydown", (event) => {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();

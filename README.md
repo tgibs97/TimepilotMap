@@ -3,7 +3,7 @@
 A static navigable star-map website based on the supplied chart. It supports pan, wheel zoom, system selection, search, and a details panel.
 
 Selecting a system updates the details panel without moving the current map view. Pan and zoom are controlled manually.
-The system details panel is populated from `js/system-details.js`.
+The system details panel is populated from `js/system-details.js`. The Star System View uses generated planet and moon data from `js/star-system-objects.js`.
 
 ## Run locally
 
@@ -21,6 +21,13 @@ Then browse to `http://localhost:8080`.
 
 Systems, coordinates, ratings, colors, and routes live in `js/map-data.js`.
 Wiki-derived system facts live in `js/system-details.js`.
+Star System View object data is generated from the Starfield Fandom wiki and stored in `data/star-system-objects.json` plus the importable `js/star-system-objects.js` wrapper. The generator pulls system planet/moon lists and each object's General Information panel when an object page exists.
+
+Regenerate planet and moon data with:
+
+```powershell
+node scripts\update-star-system-objects.mjs
+```
 
 ## Code notes
 
