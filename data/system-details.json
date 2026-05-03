@@ -1,4 +1,4 @@
-export const TIMEPILOT_SYSTEM_DETAILS = {
+{
   "Alpha Andraste": {
     "faction": "None",
     "spectralClass": "G5",
@@ -1232,4 +1232,4 @@ export const TIMEPILOT_SYSTEM_DETAILS = {
     "planets": "6",
     "moons": "6"
   }
-};
+}
