@@ -3,7 +3,7 @@
 A static navigable star-map website based on the supplied chart. It supports pan, wheel zoom, system selection, search, and a details panel.
 
 Selecting a system updates the details panel without moving the current map view. Pan and zoom are controlled manually.
-The system details panel is populated from `system-details.js`.
+The system details panel is populated from `js/system-details.js`.
 
 ## Run locally
 
@@ -19,8 +19,13 @@ Then browse to `http://localhost:8080`.
 
 ## Edit systems
 
-Systems, coordinates, ratings, colors, and routes live in `map-data.js`.
-Wiki-derived system facts live in `system-details.js`.
+Systems, coordinates, ratings, colors, and routes live in `js/map-data.js`.
+Wiki-derived system facts live in `js/system-details.js`.
+
+## Code notes
+
+When updating the code in this project, add concise comments for non-obvious logic and behavior.
+Document intent, assumptions, and tricky calculations, but avoid comments that only restate the code.
 
 Each system uses the source chart's coordinate space:
 
@@ -38,9 +43,7 @@ Copy these files to a web-served dataset or app volume:
 
 - `index.html`
 - `styles.css`
-- `app.js`
-- `map-data.js`
-- `system-details.js`
+- `js/`
 
 Any Nginx, Caddy, Apache, or TrueNAS static web app can serve them because there is no backend.
 

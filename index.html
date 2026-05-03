@@ -8,7 +8,7 @@
   </head>
   <body>
     <main class="app-shell">
-      <!-- Primary map workspace. The SVG layers are populated by app.js. -->
+      <!-- Primary map workspace. The SVG layers are populated by the JavaScript modules. -->
       <section class="map-stage" aria-label="Navigable star map">
         <div class="topbar">
           <div class="brand">
@@ -26,7 +26,7 @@
         </div>
 
         <div class="map-wrap" id="map-wrap">
-          <!-- viewBox dimensions match the coordinate system used in map-data.js. -->
+          <!-- viewBox dimensions match the coordinate system used in js/map-data.js. -->
           <svg id="star-map" class="star-map" viewBox="0 0 2048 1137" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="map-title map-desc">
             <title id="map-title">Timepilot star systems</title>
             <desc id="map-desc">A pannable and zoomable star map with selectable systems.</desc>
@@ -67,7 +67,7 @@
 
       </section>
 
-      <!-- Selection details. app.js swaps the empty state for the populated card. -->
+      <!-- Selection details. JavaScript swaps the empty state for the populated card. -->
       <aside class="details-panel" id="details-panel" aria-live="polite">
         <div class="panel-empty" id="panel-empty">
           <h2>Select a system</h2>
@@ -121,7 +121,7 @@
 
           <section class="field-info-inline hidden" id="field-info-panel" aria-live="polite">
             <h3 id="field-info-title">Field Info</h3>
-            <p id="field-info-copy"></p>
+            <div id="field-info-copy"></div>
           </section>
         </article>
 
@@ -165,8 +165,6 @@
       </section>
     </div>
 
-    <script src="map-data.js"></script>
-    <script src="system-details.js"></script>
-    <script src="app.js"></script>
+    <script type="module" src="js/app.js"></script>
   </body>
 </html>
