@@ -1,6 +1,7 @@
 // Centralized DOM lookups keep IDs in one place and make the app coordinator easier to scan.
 export function getDomRefs() {
   return {
+    mapStage: document.getElementById("map-stage"),
     svg: document.getElementById("star-map"),
     mapWrap: document.getElementById("map-wrap"),
     viewport: document.getElementById("viewport-layer"),
@@ -14,6 +15,18 @@ export function getDomRefs() {
     emptyPanel: document.getElementById("panel-empty"),
     systemCard: document.getElementById("system-card"),
     systemClose: document.getElementById("system-close"),
+    systemViewOpen: document.getElementById("system-view-open"),
+    systemView: {
+      container: document.getElementById("star-system-view"),
+      back: document.getElementById("system-view-back"),
+      title: document.getElementById("system-view-title"),
+      summary: document.getElementById("system-view-summary"),
+      zoomIn: document.getElementById("system-view-zoom-in"),
+      zoomOut: document.getElementById("system-view-zoom-out"),
+      reset: document.getElementById("system-view-reset"),
+      canvas: document.getElementById("system-view-canvas"),
+      status: document.getElementById("system-view-status")
+    },
     settingsOpen: document.getElementById("settings-open"),
     settingsClose: document.getElementById("settings-close"),
     settingsModal: document.getElementById("settings-modal"),
