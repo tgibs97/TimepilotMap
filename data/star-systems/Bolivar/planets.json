@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bolivar",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Bolivar",
+  "sourcePage": "Bolivar",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Bolivar"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Bolivar I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bolivar_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bolivar_I",
+      "sourcePage": "Bolivar I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bolivar"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.82 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Ecological Consortium"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bolivar/planets/Bolivar_I-moons.json"
+    }
+  ]
+}

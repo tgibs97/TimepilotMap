@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Narion",
+  "planetName": "Anselon",
+  "planetWikiPath": "/wiki/Anselon",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Kreet",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Kreet",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kreet",
+      "sourcePage": "Kreet",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Anselon"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.55 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Boiled Seas"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Vectera",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Vectera",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Vectera",
+      "sourcePage": "Vectera",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Anselon"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.91 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

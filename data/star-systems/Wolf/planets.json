@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Wolf",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Wolf",
+  "sourcePage": "Wolf",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Wolf"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Chthonia",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Chthonia",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Chthonia",
+      "sourcePage": "Chthonia",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Wolf"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.25 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Wolf/planets/Chthonia-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Etherea",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Etherea",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Etherea",
+      "sourcePage": "Etherea",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Wolf"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.54 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Wolf/planets/Etherea-moons.json"
+    }
+  ]
+}

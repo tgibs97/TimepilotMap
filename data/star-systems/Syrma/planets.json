@@ -1,0 +1,434 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Syrma",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Syrma",
+  "sourcePage": "Syrma",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Syrma"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Syrma I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Syrma_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_I",
+      "sourcePage": "Syrma I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Extr CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Solar Storm Seasons; Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Syrma II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Syrma_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_II",
+      "sourcePage": "Syrma II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.80 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Syrma III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Syrma_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_III",
+      "sourcePage": "Syrma III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.38 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Syrma IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Syrma_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_IV",
+      "sourcePage": "Syrma IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.54 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass; Aeriform Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Syrma V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Syrma_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_V",
+      "sourcePage": "Syrma V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.79 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sonorous Lithosphere; Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Syrma VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Syrma_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VI",
+      "sourcePage": "Syrma VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.99 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Syrma VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Syrma_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VII",
+      "sourcePage": "Syrma VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.60 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Syrma/planets/Syrma_VII-moons.json"
+    }
+  ]
+}

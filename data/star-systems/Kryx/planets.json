@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Kryx",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Kryx",
+  "sourcePage": "Kryx",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Kryx"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Suvorov",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Suvorov",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Suvorov",
+      "sourcePage": "Suvorov",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kryx"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD ₀ ₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Kryx/planets/Suvorov-moons.json"
+    }
+  ]
+}

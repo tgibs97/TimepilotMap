@@ -1,0 +1,328 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Carinae",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Carinae",
+  "sourcePage": "Carinae",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Carinae"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Carinae I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Carinae_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_I",
+      "sourcePage": "Carinae I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.87 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Carinae/planets/Carinae_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Carinae II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Carinae_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_II",
+      "sourcePage": "Carinae II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.89 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font; Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Carinae/planets/Carinae_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Carinae III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Carinae_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_III",
+      "sourcePage": "Carinae III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.46 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Carinae/planets/Carinae_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Carinae IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Carinae_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_IV",
+      "sourcePage": "Carinae IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Carinae/planets/Carinae_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Carinae V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Carinae_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_V",
+      "sourcePage": "Carinae V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "4.70 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Carinae/planets/Carinae_V-moons.json"
+    }
+  ]
+}

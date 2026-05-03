@@ -1,0 +1,191 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Newton",
+  "planetName": "Newton V",
+  "planetWikiPath": "/wiki/Newton_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Newton V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Newton_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Newton_V-a",
+      "sourcePage": "Newton V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Newton"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Newton V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Newton V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Newton_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Newton_V-b",
+      "sourcePage": "Newton V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Newton"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Newton V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.66 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Newton V-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Newton_V-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Newton_V-c",
+      "sourcePage": "Newton V-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Newton"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Newton V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

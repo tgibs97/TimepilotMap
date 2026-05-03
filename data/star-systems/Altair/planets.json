@@ -1,0 +1,328 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Altair",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Altair",
+  "sourcePage": "Altair",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Altair"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Altair I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Altair_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_I",
+      "sourcePage": "Altair I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.80 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Energetic Rifting; Prismatic Plumes"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Altair/planets/Altair_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Altair II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Altair_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_II",
+      "sourcePage": "Altair II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.34 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Ecological Consortium; Sentient Microbial Colonies; Psychotropic Biota"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Altair/planets/Altair_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Altair III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Altair_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_III",
+      "sourcePage": "Altair III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.93 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Frozen Ecosystem; Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Altair/planets/Altair_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Altair IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Altair_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_IV",
+      "sourcePage": "Altair IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Altair/planets/Altair_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Altair V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Altair_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_V",
+      "sourcePage": "Altair V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.55 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Altair/planets/Altair_V-moons.json"
+    }
+  ]
+}

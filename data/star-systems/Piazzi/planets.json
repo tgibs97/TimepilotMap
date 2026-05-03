@@ -1,0 +1,444 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Piazzi",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi",
+  "sourcePage": "Piazzi",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Piazzi"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Piazzi I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Piazzi_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_I",
+      "sourcePage": "Piazzi I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.08 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial (4)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Prismatic Plumes"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Piazzi II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Piazzi_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_II",
+      "sourcePage": "Piazzi II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass; Slushy Subsurface Seas; Sonorous Lithosphere"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Piazzi III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Piazzi_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_III",
+      "sourcePage": "Piazzi III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.62 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Piazzi IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Piazzi_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_IV",
+      "sourcePage": "Piazzi IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.43 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Piazzi V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Piazzi_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_V",
+      "sourcePage": "Piazzi V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.68 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Piazzi VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Piazzi_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_VI",
+      "sourcePage": "Piazzi VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Piazzi VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Piazzi_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_VII",
+      "sourcePage": "Piazzi VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.36 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Exterme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Piazzi/planets/Piazzi_VII-moons.json"
+    }
+  ]
+}

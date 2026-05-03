@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Verne",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Verne",
+  "sourcePage": "Verne",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Verne"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Verne I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Verne_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Verne II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Verne_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Verne III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Verne_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Verne IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Verne_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Verne V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Verne_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Verne VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Verne_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Verne VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Verne_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Verne/planets/Verne_VII-moons.json"
+    }
+  ]
+}

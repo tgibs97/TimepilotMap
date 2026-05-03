@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Syrma",
+  "planetName": "Syrma VII",
+  "planetWikiPath": "/wiki/Syrma_VII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Syrma VII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Syrma_VII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VII-a",
+      "sourcePage": "Syrma VII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.50 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Syrma VII-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Syrma_VII-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Syrma_VII-b",
+      "sourcePage": "Syrma VII-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Syrma"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Syrma VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

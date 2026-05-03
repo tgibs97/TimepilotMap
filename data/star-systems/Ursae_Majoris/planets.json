@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Ursae Majoris",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Ursae_Majoris",
+  "sourcePage": "Ursae Majoris",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Ursae Majoris"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Ursa Major I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Ursa_Major_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Ursae_Majoris/planets/Ursa_Major_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ursa Major II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Ursa_Major_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Ursae_Majoris/planets/Ursa_Major_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ursa Major III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Ursa_Major_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Ursae_Majoris/planets/Ursa_Major_III-moons.json"
+    }
+  ]
+}

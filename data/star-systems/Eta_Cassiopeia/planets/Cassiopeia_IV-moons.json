@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Eta Cassiopeia",
+  "planetName": "Cassiopeia IV",
+  "planetWikiPath": "/wiki/Cassiopeia_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Cassiopeia IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Cassiopeia_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cassiopeia_IV-a",
+      "sourcePage": "Cassiopeia IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cassiopeia"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cassiopeia IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.46 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (6)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Radioactive"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Prismatic Plumes; Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

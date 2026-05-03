@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Carinae",
+  "planetName": "Carinae IV",
+  "planetWikiPath": "/wiki/Carinae_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Carinae IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Carinae_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_IV-a",
+      "sourcePage": "Carinae IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

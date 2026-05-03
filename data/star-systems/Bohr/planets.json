@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bohr",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Bohr",
+  "sourcePage": "Bohr",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Bohr"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Bohr I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bohr_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bohr_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Bohr_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Bohr_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Bohr_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Bohr_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Bohr_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bohr VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Bohr_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bohr/planets/Bohr_VIII-moons.json"
+    }
+  ]
+}

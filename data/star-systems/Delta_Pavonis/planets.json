@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Delta Pavonis",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Pavonis",
+  "sourcePage": "Delta Pavonis",
+  "parseStatus": "missing-planets-table",
+  "star": {
+    "type": "star",
+    "name": "Delta Pavonis"
+  },
+  "planets": []
+}

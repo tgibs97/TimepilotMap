@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Altair",
+  "planetName": "Altair III",
+  "planetWikiPath": "/wiki/Altair_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Altair III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Altair_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_III-a",
+      "sourcePage": "Altair III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Asteroid"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Altair III-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Altair_III-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_III-b",
+      "sourcePage": "Altair III-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Altair III-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Altair_III-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Altair_III-c",
+      "sourcePage": "Altair III-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Altair"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Altair III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

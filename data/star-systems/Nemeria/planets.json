@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Nemeria",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Nemeria",
+  "sourcePage": "Nemeria",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Nemeria"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Nemeria I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Nemeria_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nemeria/planets/Nemeria_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nemeria II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Nemeria_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nemeria/planets/Nemeria_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nemeria III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Nemeria_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nemeria/planets/Nemeria_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nemeria IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Nemeria_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nemeria/planets/Nemeria_IV-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Alchiba",
+  "planetName": "Alchiba IV",
+  "planetWikiPath": "/wiki/Alchiba_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Alchiba IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Alchiba_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alchiba_IV-a",
+      "sourcePage": "Alchiba IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alchiba"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Alchiba IV"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

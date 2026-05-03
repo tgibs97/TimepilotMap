@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Maheo",
+  "planetName": "Maheo VII",
+  "planetWikiPath": "/wiki/Maheo_VII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Maheo VII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Maheo_VII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Maheo_VII-a",
+      "sourcePage": "Maheo VII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Maheo"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Maheo VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

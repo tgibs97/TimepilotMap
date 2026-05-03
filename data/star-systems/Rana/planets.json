@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Rana",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Rana",
+  "sourcePage": "Rana",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Rana"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Rana I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Rana_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rana_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Rana_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Rana_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Rana_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Rana_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Rana_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Rana_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rana IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Rana_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rana/planets/Rana_IX-moons.json"
+    }
+  ]
+}

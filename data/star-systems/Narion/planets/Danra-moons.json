@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Narion",
+  "planetName": "Danra",
+  "planetWikiPath": "/wiki/Danra",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Gryphus",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Gryphus",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Gryphus",
+      "sourcePage": "Gryphus",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Danra"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Podius",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Podius",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Podius",
+      "sourcePage": "Podius",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Narion"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Danra"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

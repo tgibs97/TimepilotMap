@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Delta Vulpes",
+  "planetName": "Delta Vulpes IV",
+  "planetWikiPath": "/wiki/Delta_Vulpes_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Delta Vulpes IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Delta_Vulpes_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_IV-a",
+      "sourcePage": "Delta Vulpes IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Delta Vulpes IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.24 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

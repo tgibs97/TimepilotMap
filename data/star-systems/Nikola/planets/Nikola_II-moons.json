@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Nikola",
+  "planetName": "Nikola II",
+  "planetWikiPath": "/wiki/Nikola_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Nikola II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Nikola_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_II-a",
+      "sourcePage": "Nikola II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Nikola II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.17 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

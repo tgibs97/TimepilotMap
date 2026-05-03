@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Hyla",
+  "planetName": "Hyla II",
+  "planetWikiPath": "/wiki/Hyla_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Hyla II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Hyla_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_II-a",
+      "sourcePage": "Hyla II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Hyla II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": ".14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Bolide Bombardment"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Hyla II-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Hyla_II-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hyla_II-b",
+      "sourcePage": "Hyla II-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Hyla"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Hyla II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Asteroid"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": ".07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

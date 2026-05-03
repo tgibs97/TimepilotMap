@@ -246,7 +246,7 @@ function buildObjectList(planets) {
   return list;
 }
 
-export function renderStarSystemView({ dom, system, objectData, starColor }) {
+export function renderStarSystemView({ dom, system, objectData, starColor, loading = false, error = "" }) {
   // Normalize old or incomplete generated rows before rendering nested moon UI.
   const planets = (objectData?.planets || []).map((planet) => ({
     ...planet,
@@ -261,10 +261,17 @@ export function renderStarSystemView({ dom, system, objectData, starColor }) {
   dom.title.textContent = system.name;
   dom.summary.textContent = planets.length
     ? `${planets.length} planets / ${moons} moons`
+    : loading
+      ? "Loading planets and moons"
     : "No local planet or moon data available";
   dom.canvas.replaceChildren();
 
-  if (!planets.length) {
+  if (loading || error) {
+    const status = document.createElement("div");
+    status.className = "system-view-empty";
+    status.textContent = error || "Loading star system object data...";
+    dom.canvas.appendChild(status);
+  } else if (!planets.length) {
     const empty = document.createElement("div");
     empty.className = "system-view-empty";
     empty.textContent = "This system has no parsed planet table yet. The view will update when the local wiki data is regenerated.";

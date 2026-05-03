@@ -1,0 +1,434 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bel",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Bel",
+  "sourcePage": "Bel",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Bel"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Bel I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bel_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_I",
+      "sourcePage": "Bel I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.52 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂ (cor)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bel II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bel_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_II",
+      "sourcePage": "Bel II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂ (Tox)"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Flora"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold; Ecological Consortium; Psychotropic Biota"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bel III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Bel_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_III",
+      "sourcePage": "Bel III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.95 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sonorous Lithosphere; Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bel IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Bel_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_IV",
+      "sourcePage": "Bel IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "6.92 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bel V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Bel_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_V",
+      "sourcePage": "Bel V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.56 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bel VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Bel_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_VI",
+      "sourcePage": "Bel VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.58 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bel VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Bel_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_VII",
+      "sourcePage": "Bel VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bel/planets/Bel_VII-moons.json"
+    }
+  ]
+}

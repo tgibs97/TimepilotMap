@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Lantana",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Lantana",
+  "sourcePage": "Lantana",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Lantana"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Lantana I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Lantana_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Lantana_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Lantana_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Lantana_III",
+      "sourcePage": "Lantana III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lantana"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Lantana_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Lantana_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Lantana_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Lantana_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Lantana_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lantana IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Lantana_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Lantana/planets/Lantana_IX-moons.json"
+    }
+  ]
+}

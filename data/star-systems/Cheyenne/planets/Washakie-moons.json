@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Cheyenne",
+  "planetName": "Washakie",
+  "planetWikiPath": "/wiki/Washakie",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Smet",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Smet",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Smet",
+      "sourcePage": "Smet",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Washakie"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

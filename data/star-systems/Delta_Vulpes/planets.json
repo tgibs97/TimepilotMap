@@ -1,0 +1,454 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Delta Vulpes",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes",
+  "sourcePage": "Delta Vulpes",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Delta Vulpes"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Delta Vulpes I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Delta_Vulpes_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_I",
+      "sourcePage": "Delta Vulpes I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Hot Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.55 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Delta Vulpes II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Delta_Vulpes_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_II",
+      "sourcePage": "Delta Vulpes II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.76 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Continual Conductor; Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Delta Vulpes III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Delta_Vulpes_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_III",
+      "sourcePage": "Delta Vulpes III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.47 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Delta Vulpes IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Delta_Vulpes_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_IV",
+      "sourcePage": "Delta Vulpes IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.67 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Delta Vulpes V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Delta_Vulpes_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_V",
+      "sourcePage": "Delta Vulpes V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "6.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Delta Vulpes VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Delta_Vulpes_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_VI",
+      "sourcePage": "Delta Vulpes VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.49 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Delta Vulpes VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Delta_Vulpes_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_VII",
+      "sourcePage": "Delta Vulpes VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.52 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Delta_Vulpes/planets/Delta_Vulpes_VII-moons.json"
+    }
+  ]
+}

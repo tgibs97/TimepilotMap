@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Shoza",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Shoza",
+  "sourcePage": "Shoza",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Shoza"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Shoza I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Shoza_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Shoza_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Shoza_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Shoza_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Shoza_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Shoza_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Shoza_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Shoza_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Shoza IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Shoza_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Shoza/planets/Shoza_IX-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Al-Battani",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani",
+  "sourcePage": "Al-Battani",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Al-Battani"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Al-Battani I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Al-Battani_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_I",
+      "sourcePage": "Al-Battani I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.00 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Al-Battani_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_II",
+      "sourcePage": "Al-Battani II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.84 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Al-Battani_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_III",
+      "sourcePage": "Al-Battani III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Extra M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Al-Battani_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_IV",
+      "sourcePage": "Al-Battani IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.79 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Al-Battani_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_V",
+      "sourcePage": "Al-Battani V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.77 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Al-Battani_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_VI",
+      "sourcePage": "Al-Battani VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.99 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Al-Battani_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_VII",
+      "sourcePage": "Al-Battani VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.81 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Al-Battani VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Al-Battani_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Al-Battani_VIII",
+      "sourcePage": "Al-Battani VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Al-Battani"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.49 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Al-Battani/planets/Al-Battani_VIII-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Alpha Andraste",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste",
+  "sourcePage": "Alpha Andraste",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Alpha Andraste"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Alpha Andraste I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Alpha_Andraste_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste_I",
+      "sourcePage": "Alpha Andraste I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Andraste"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.54 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Alpha_Andraste/planets/Alpha_Andraste_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alpha Andraste II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Alpha_Andraste_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste_II",
+      "sourcePage": "Alpha Andraste II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Andraste"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.37 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Hot"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial (4)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Continual Conductor"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Andraste/planets/Alpha_Andraste_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alpha Andraste III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Alpha_Andraste_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste_III",
+      "sourcePage": "Alpha Andraste III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Andraste"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.44 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate (11)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate (5)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Psychotropic Biota; Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Andraste/planets/Alpha_Andraste_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alpha Andraste IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Alpha_Andraste_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste_IV",
+      "sourcePage": "Alpha Andraste IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Andraste"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.85 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Emerging Tectonics; Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Andraste/planets/Alpha_Andraste_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alpha Andraste V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Alpha_Andraste_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste_V",
+      "sourcePage": "Alpha Andraste V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Andraste"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Steady N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust; Continual Conductor; Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Andraste/planets/Alpha_Andraste_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Alpha Andraste VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Alpha_Andraste_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Andraste_VI",
+      "sourcePage": "Alpha Andraste VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Andraste"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.67 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Extreme N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Emerging Tectonics"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Alpha_Andraste/planets/Alpha_Andraste_VI-moons.json"
+    }
+  ]
+}

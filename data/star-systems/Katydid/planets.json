@@ -1,0 +1,202 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Katydid",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Katydid",
+  "sourcePage": "Katydid",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Katydid"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Katydid I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Katydid_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Katydid_I",
+      "sourcePage": "Katydid I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Katydid"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Hot Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Katydid/planets/Katydid_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Katydid II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Katydid_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Katydid_II",
+      "sourcePage": "Katydid II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Katydid"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.91 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Energetic Rifting; Primed For Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Katydid/planets/Katydid_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Katydid III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Katydid_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Katydid_III",
+      "sourcePage": "Katydid III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Katydid"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Katydid/planets/Katydid_III-moons.json"
+    }
+  ]
+}

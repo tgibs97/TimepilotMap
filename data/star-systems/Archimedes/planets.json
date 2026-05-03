@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Archimedes",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Archimedes",
+  "sourcePage": "Archimedes",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Archimedes"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Archimedes I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Archimedes_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Archimedes/planets/Archimedes_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Archimedes II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Archimedes_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Archimedes/planets/Archimedes_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Archimedes III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Archimedes_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Archimedes/planets/Archimedes_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Archimedes IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Archimedes_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Archimedes/planets/Archimedes_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Archimedes V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Archimedes_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Archimedes/planets/Archimedes_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Archimedes VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Archimedes_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Archimedes/planets/Archimedes_VI-moons.json"
+    }
+  ]
+}

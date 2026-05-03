@@ -1,0 +1,265 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Oborum Prime",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_Prime",
+  "sourcePage": "Oborum Prime",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Oborum Prime"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Oborum I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Oborum_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_I",
+      "sourcePage": "Oborum I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Oborum Prime"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Diseased Biosphere"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Oborum_Prime/planets/Oborum_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Oborum II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Oborum_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_II",
+      "sourcePage": "Oborum II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Oborum Prime"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Oborum_Prime/planets/Oborum_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Oborum III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Oborum_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_III",
+      "sourcePage": "Oborum III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Oborum Prime"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.28 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Oborum_Prime/planets/Oborum_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Oborum IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Oborum_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Oborum_IV",
+      "sourcePage": "Oborum IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Oborum Prime"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.57 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Oborum_Prime/planets/Oborum_IV-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Van Maanen's Star",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Van_Maanen's_Star",
+  "sourcePage": "Van Maanen's Star",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Van Maanen's Star"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Van Maanen I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Van_Maanen_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Van_Maanen_I",
+      "sourcePage": "Van Maanen I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Van Maanen's Star"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.03 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Van_Maanen_s_Star/planets/Van_Maanen_I-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Strix",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Strix",
+  "sourcePage": "Strix",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Strix"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Strix I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Strix_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Strix/planets/Strix_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Strix II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Strix_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Strix/planets/Strix_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Strix III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Strix_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Strix/planets/Strix_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Strix IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Strix_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Strix/planets/Strix_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Strix V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Strix_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Strix/planets/Strix_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Strix VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Strix_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Strix/planets/Strix_VI-moons.json"
+    }
+  ]
+}

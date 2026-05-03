@@ -1,0 +1,323 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Valo",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Valo",
+  "sourcePage": "Valo",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Valo"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Polvo",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Polvo",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Polvo",
+      "sourcePage": "Polvo",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Valo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.81 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD ₀ ₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Radioactive"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Psychotropic Biota; Ecological Consortium; Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Valo/planets/Polvo-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Cantra",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Cantra",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Cantra",
+      "sourcePage": "Cantra",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Valo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.08 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Valo/planets/Cantra-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Prax",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Prax",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Prax",
+      "sourcePage": "Prax",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Valo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.08 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Valo/planets/Prax-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Hillex",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Hillex",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hillex",
+      "sourcePage": "Hillex",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Valo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Valo/planets/Hillex-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Lumos",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Lumos",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Lumos",
+      "sourcePage": "Lumos",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Valo"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.41 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Valo/planets/Lumos-moons.json"
+    }
+  ]
+}

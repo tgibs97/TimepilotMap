@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Jaffa",
+  "planetName": "Jaffa II",
+  "planetWikiPath": "/wiki/Jaffa_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Jaffa II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Jaffa_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Jaffa_II-a",
+      "sourcePage": "Jaffa II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Jaffa"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Jaffa II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.41 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "37 °C"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Continual Conductor; Solar Storm Seasons"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

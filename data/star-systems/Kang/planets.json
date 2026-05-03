@@ -1,0 +1,507 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Kang",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Kang",
+  "sourcePage": "Kang",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Kang"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Kang I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Kang_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_I",
+      "sourcePage": "Kang I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.62 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Boiled Seas"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Kang_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_II",
+      "sourcePage": "Kang II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.30 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Charred Ecosystem; Boiled Seas"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Kang_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_III",
+      "sourcePage": "Kang III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.23 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Prismatic Plumes; Emerging Tectonics; Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Kang_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_IV",
+      "sourcePage": "Kang IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.73 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sonorous Lithosphere; Solar Storm Seasons; Continual Conductor"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Kang_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_V",
+      "sourcePage": "Kang V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.83 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Primed For Life; Frozen Ecosystem; Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Kang_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_VI",
+      "sourcePage": "Kang VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.97 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Solar Storm Seasons; Prismatic Plumes; Emerging Tectonics; Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Kang_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_VII",
+      "sourcePage": "Kang VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Kang VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Kang_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kang_VIII",
+      "sourcePage": "Kang VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kang"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.64 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Kang/planets/Kang_VIII-moons.json"
+    }
+  ]
+}

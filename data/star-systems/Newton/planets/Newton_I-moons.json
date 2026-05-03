@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Newton",
+  "planetName": "Newton I",
+  "planetWikiPath": "/wiki/Newton_I",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Newton I-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Newton_I-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Newton_I-a",
+      "sourcePage": "Newton I-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Newton"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Newton I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.45 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

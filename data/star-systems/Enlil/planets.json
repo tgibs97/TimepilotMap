@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Enlil",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Enlil",
+  "sourcePage": "Enlil",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Enlil"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Enlil I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Enlil_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Enlil II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Enlil_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Enlil III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Enlil_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Enlil IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Enlil_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Enlil V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Enlil_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Enlil VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Enlil_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Enlil VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Enlil_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Enlil/planets/Enlil_VII-moons.json"
+    }
+  ]
+}

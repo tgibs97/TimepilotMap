@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Sol",
+  "planetName": "Uranus",
+  "planetWikiPath": "/wiki/Uranus",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Ariel",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Ariel",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Ariel",
+      "sourcePage": "Ariel",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Uranus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.03 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Miranda",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Miranda",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Miranda",
+      "sourcePage": "Miranda",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Uranus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Slushy Subsurface Seas"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Oberon",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Oberon",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Oberon",
+      "sourcePage": "Oberon",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Uranus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Titania",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Titania",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Titania",
+      "sourcePage": "Titania",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Uranus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Umbriel",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Umbriel",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Umbriel",
+      "sourcePage": "Umbriel",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Sol"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Uranus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.02 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

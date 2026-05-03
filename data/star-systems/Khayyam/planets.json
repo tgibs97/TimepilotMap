@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Khayyam",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam",
+  "sourcePage": "Khayyam",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Khayyam"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Khayyam I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Khayyam_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_I",
+      "sourcePage": "Khayyam I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.24 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "none"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Charred Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Khayyam/planets/Khayyam_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Khayyam II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Khayyam_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_II",
+      "sourcePage": "Khayyam II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate (9)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate (5)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Khayyam/planets/Khayyam_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Khayyam III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Khayyam_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_III",
+      "sourcePage": "Khayyam III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.58 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Pelted Fields"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Khayyam/planets/Khayyam_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Khayyam IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Khayyam_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_IV",
+      "sourcePage": "Khayyam IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.61 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life; Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Khayyam/planets/Khayyam_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Khayyam V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Khayyam_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_V",
+      "sourcePage": "Khayyam V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.33 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Khayyam/planets/Khayyam_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Khayyam VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Khayyam_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_VI",
+      "sourcePage": "Khayyam VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.41 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Khayyam/planets/Khayyam_VI-moons.json"
+    }
+  ]
+}

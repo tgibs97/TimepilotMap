@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Carinae",
+  "planetName": "Carinae III",
+  "planetWikiPath": "/wiki/Carinae_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Carinae III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Carinae_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_III-a",
+      "sourcePage": "Carinae III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.36 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Prismatic Plumes; Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Carinae III-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Carinae_III-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_III-b",
+      "sourcePage": "Carinae III-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.28 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Carinae III-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Carinae_III-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_III-c",
+      "sourcePage": "Carinae III-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Carinae III-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Carinae_III-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Carinae_III-d",
+      "sourcePage": "Carinae III-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Carinae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Carinae III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

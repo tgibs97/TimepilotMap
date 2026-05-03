@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Foucault",
+  "planetName": "Foucault I",
+  "planetWikiPath": "/wiki/Foucault_I",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Foucault I-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Foucault_I-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_I-a",
+      "sourcePage": "Foucault I-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.17 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault I-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Foucault_I-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_I-b",
+      "sourcePage": "Foucault I-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault I"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

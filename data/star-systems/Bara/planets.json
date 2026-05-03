@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bara",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Bara",
+  "sourcePage": "Bara",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Bara"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Bara I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bara_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bara II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bara_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bara_II",
+      "sourcePage": "Bara II",
+      "generalInfo": [],
+      "infoStatus": "missing-general-information",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bara III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Bara_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bara IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Bara_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bara V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Bara_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bara VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Bara_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bara VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Bara_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bara/planets/Bara_VII-moons.json"
+    }
+  ]
+}

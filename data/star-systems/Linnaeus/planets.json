@@ -1,0 +1,454 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Linnaeus",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus",
+  "sourcePage": "Linnaeus",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Linnaeus"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Linnaeus I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Linnaeus_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_I",
+      "sourcePage": "Linnaeus I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.61 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "EXTR CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Charred Ecosystem; Pelted Fields; Prismatic Plumes"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Linnaeus II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Linnaeus_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_II",
+      "sourcePage": "Linnaeus II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.52 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (3)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (3)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Linnaeus III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Linnaeus_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_III",
+      "sourcePage": "Linnaeus III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.32 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "EXTR M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Linnaeus IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Linnaeus_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_IV",
+      "sourcePage": "Linnaeus IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.55 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Linnaeus V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Linnaeus_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_V",
+      "sourcePage": "Linnaeus V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.41 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Linnaeus VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Linnaeus_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_VI",
+      "sourcePage": "Linnaeus VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Linnaeus VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Linnaeus_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Linnaeus_VII",
+      "sourcePage": "Linnaeus VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Linnaeus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.52 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Linnaeus/planets/Linnaeus_VII-moons.json"
+    }
+  ]
+}

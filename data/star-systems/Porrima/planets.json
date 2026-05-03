@@ -1,0 +1,177 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Porrima",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Porrima",
+  "sourcePage": "Porrima",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Porrima"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Porrima I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Porrima_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Porrima_I",
+      "sourcePage": "Porrima I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Porrima"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.38 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Porrima/planets/Porrima_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Porrima II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Porrima_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Porrima_II",
+      "sourcePage": "Porrima II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Porrima"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Porrima/planets/Porrima_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Porrima III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Porrima_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Porrima_III",
+      "sourcePage": "Porrima III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Porrima"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.01 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Porrima/planets/Porrima_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Porrima IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Porrima_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Porrima/planets/Porrima_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Porrima V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Porrima_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Porrima/planets/Porrima_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Porrima VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Porrima_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Porrima/planets/Porrima_VI-moons.json"
+    }
+  ]
+}

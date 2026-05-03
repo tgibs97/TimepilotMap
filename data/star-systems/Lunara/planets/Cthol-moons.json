@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Lunara",
+  "planetName": "Cthol",
+  "planetWikiPath": "/wiki/Cthol",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Uvhan",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Uvhan",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Uvhan",
+      "sourcePage": "Uvhan",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cthol"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.25 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Nyarloth",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Nyarloth",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nyarloth",
+      "sourcePage": "Nyarloth",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cthol"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.39 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Az-Valok",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Az-Valok",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Az-Valok",
+      "sourcePage": "Az-Valok",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Lunara"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Cthol"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.36 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

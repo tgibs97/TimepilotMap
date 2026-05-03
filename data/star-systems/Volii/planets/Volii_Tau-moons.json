@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Volii",
+  "planetName": "Volii Tau",
+  "planetWikiPath": "/wiki/Volii_Tau",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Volii Psi",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Volii_Psi",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Psi",
+      "sourcePage": "Volii Psi",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Volii Tau"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.17 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

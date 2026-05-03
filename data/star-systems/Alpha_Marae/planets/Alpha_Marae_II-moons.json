@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Alpha Marae",
+  "planetName": "Alpha Marae II",
+  "planetWikiPath": "/wiki/Alpha_Marae_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Alpha Marae II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Alpha_Marae_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Marae_II-a",
+      "sourcePage": "Alpha Marae II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Marae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Alpha Marae II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

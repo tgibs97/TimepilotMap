@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bel",
+  "planetName": "Bel II",
+  "planetWikiPath": "/wiki/Bel_II",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Bel II-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bel_II-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Bel_II-a",
+      "sourcePage": "Bel II-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Bel"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Bel II"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.35 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Turbulent Lithosphere; Crystalline Crust"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Serpentis",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis",
+  "sourcePage": "Serpentis",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Serpentis"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Serpentis I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Serpentis_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis_I",
+      "sourcePage": "Serpentis I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Serpentis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Boiled Seas; Gaseous Font"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Serpentis/planets/Serpentis_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Serpentis II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Serpentis_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis_II",
+      "sourcePage": "Serpentis II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Serpentis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.33 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Diseased Biosphere; Ecological Consortium; Global Glacial Recession"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Serpentis/planets/Serpentis_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Serpentis III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Serpentis_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis_III",
+      "sourcePage": "Serpentis III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Serpentis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.28 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Serpentis/planets/Serpentis_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Serpentis IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Serpentis_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis_IV",
+      "sourcePage": "Serpentis IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Serpentis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.88 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Abundant"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Abundant"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Serpentis/planets/Serpentis_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Serpentis V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Serpentis_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis_V",
+      "sourcePage": "Serpentis V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Serpentis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.96 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Serpentis/planets/Serpentis_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Serpentis VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Serpentis_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Serpentis_VI",
+      "sourcePage": "Serpentis VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Serpentis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.46 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Serpentis/planets/Serpentis_VI-moons.json"
+    }
+  ]
+}

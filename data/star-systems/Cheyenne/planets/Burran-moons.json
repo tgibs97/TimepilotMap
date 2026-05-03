@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Cheyenne",
+  "planetName": "Burran",
+  "planetWikiPath": "/wiki/Burran",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Grizzit",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Grizzit",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Grizzit",
+      "sourcePage": "Grizzit",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Burran"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.13 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Rell",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rell",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rell",
+      "sourcePage": "Rell",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Cheyenne"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Burran"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Ursae Minoris",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Ursae_Minoris",
+  "sourcePage": "Ursae Minoris",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Ursae Minoris"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Ursa Minor I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Ursa_Minor_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Ursae_Minoris/planets/Ursa_Minor_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ursa Minor II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Ursa_Minor_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Ursae_Minoris/planets/Ursa_Minor_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Ursa Minor III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Ursa_Minor_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Ursae_Minoris/planets/Ursa_Minor_III-moons.json"
+    }
+  ]
+}

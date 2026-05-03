@@ -1,0 +1,492 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Foucault",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Foucault",
+  "sourcePage": "Foucault",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Foucault"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Foucault I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Foucault_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_I",
+      "sourcePage": "Foucault I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.76 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Foucault_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_II",
+      "sourcePage": "Foucault II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.59 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Inferno"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Primordial"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Foucault_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_III",
+      "sourcePage": "Foucault III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.50 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Solar Storm Seasons; Frozen Ecosystem"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Foucault_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_IV",
+      "sourcePage": "Foucault IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.83 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Foucault_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_V",
+      "sourcePage": "Foucault V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.84 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Foucault_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VI",
+      "sourcePage": "Foucault VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.70 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Foucault_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VII",
+      "sourcePage": "Foucault VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.62 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 5,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Foucault VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Foucault_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VIII",
+      "sourcePage": "Foucault VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Foucault/planets/Foucault_VIII-moons.json"
+    }
+  ]
+}

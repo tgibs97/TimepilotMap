@@ -1,0 +1,201 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Piazzi",
+  "planetName": "Piazzi IV",
+  "planetWikiPath": "/wiki/Piazzi_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Piazzi IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Piazzi_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_IV-a",
+      "sourcePage": "Piazzi IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Piazzi IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "none"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Piazzi IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Piazzi_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_IV-b",
+      "sourcePage": "Piazzi IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Piazzi IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.29 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Piazzi IV-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Piazzi_IV-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Piazzi_IV-c",
+      "sourcePage": "Piazzi IV-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Piazzi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Piazzi IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.48 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life; Amphibious Foothold; Primordial Network"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

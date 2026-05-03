@@ -1,0 +1,593 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Nikola",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Nikola",
+  "sourcePage": "Nikola",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Nikola"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Nikola I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Nikola_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_I",
+      "sourcePage": "Nikola I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.71 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Nikola_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_II",
+      "sourcePage": "Nikola II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.69 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Nikola_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_III",
+      "sourcePage": "Nikola III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.19 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Nikola_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_IV",
+      "sourcePage": "Nikola IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.67 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Nikola_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_V",
+      "sourcePage": "Nikola V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.78 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Nikola_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_VI",
+      "sourcePage": "Nikola VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.62 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Nikola_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_VII",
+      "sourcePage": "Nikola VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.91 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Nikola_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_VIII",
+      "sourcePage": "Nikola VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Nikola_IX",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_IX",
+      "sourcePage": "Nikola IX",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.34 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_IX-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Nikola X",
+      "orbitIndex": 10,
+      "wikiPath": "/wiki/Nikola_X",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Nikola_X",
+      "sourcePage": "Nikola X",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Nikola"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.24 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Nikola/planets/Nikola_X-moons.json"
+    }
+  ]
+}

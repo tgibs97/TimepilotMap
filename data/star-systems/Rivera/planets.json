@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Rivera",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Rivera",
+  "sourcePage": "Rivera",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Rivera"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Rivera I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Rivera_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Rivera_I",
+      "sourcePage": "Rivera I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Rivera"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.81 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Extr CH₄"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rivera/planets/Rivera_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rivera II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Rivera_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rivera/planets/Rivera_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rivera III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Rivera_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rivera/planets/Rivera_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rivera IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Rivera_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rivera/planets/Rivera_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Rivera V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Rivera_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Rivera/planets/Rivera_V-moons.json"
+    }
+  ]
+}

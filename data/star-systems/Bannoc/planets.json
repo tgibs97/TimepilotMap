@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bannoc",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Bannoc",
+  "sourcePage": "Bannoc",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Bannoc"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Bannoc I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bannoc_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bannoc/planets/Bannoc_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bannoc II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bannoc_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bannoc/planets/Bannoc_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bannoc III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Bannoc_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bannoc/planets/Bannoc_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bannoc IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Bannoc_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bannoc/planets/Bannoc_IV-moons.json"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Charybdis",
+  "planetName": "Charybdis VII",
+  "planetWikiPath": "/wiki/Charybdis_VII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Charybdis VII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Charybdis_VII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VII-a",
+      "sourcePage": "Charybdis VII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Charybdis VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.27 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Charybdis VII-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Charybdis_VII-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VII-b",
+      "sourcePage": "Charybdis VII-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Charybdis VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.12 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Charybdis VII-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Charybdis_VII-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VII-c",
+      "sourcePage": "Charybdis VII-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Charybdis VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.26 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Charybdis VII-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Charybdis_VII-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VII-d",
+      "sourcePage": "Charybdis VII-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Charybdis VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.49 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

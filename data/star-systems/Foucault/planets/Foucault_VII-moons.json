@@ -1,0 +1,323 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Foucault",
+  "planetName": "Foucault VII",
+  "planetWikiPath": "/wiki/Foucault_VII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Foucault VII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Foucault_VII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VII-a",
+      "sourcePage": "Foucault VII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.56 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Radioactive"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault VII-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Foucault_VII-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VII-b",
+      "sourcePage": "Foucault VII-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.08 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault VII-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Foucault_VII-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VII-c",
+      "sourcePage": "Foucault VII-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault VII-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Foucault_VII-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VII-d",
+      "sourcePage": "Foucault VII-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.59 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Foucault VII-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Foucault_VII-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Foucault_VII-e",
+      "sourcePage": "Foucault VII-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Foucault"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Foucault VII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.42 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

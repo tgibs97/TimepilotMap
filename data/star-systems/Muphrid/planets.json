@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Muphrid",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Muphrid",
+  "sourcePage": "Muphrid",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Muphrid"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Muphrid I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Muphrid_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Muphrid_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Muphrid_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Muphrid_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Muphrid_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Muphrid_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Muphrid_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Muphrid VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Muphrid_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Muphrid/planets/Muphrid_VIII-moons.json"
+    }
+  ]
+}

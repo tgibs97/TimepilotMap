@@ -1,0 +1,149 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Arcturus",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Arcturus",
+  "sourcePage": "Arcturus",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Arcturus"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Arcturus I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Arcturus_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Arcturus/planets/Arcturus_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Arcturus II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Arcturus_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Arcturus_II",
+      "sourcePage": "Arcturus II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Arcturus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.95 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal (4)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Ecological Consortium"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Arcturus/planets/Arcturus_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Arcturus III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Arcturus_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Arcturus_III",
+      "sourcePage": "Arcturus III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Arcturus"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.91 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H ₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Arcturus/planets/Arcturus_III-moons.json"
+    }
+  ]
+}

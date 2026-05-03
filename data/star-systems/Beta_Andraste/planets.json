@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Beta Andraste",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Andraste",
+  "sourcePage": "Beta Andraste",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Beta Andraste"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Beta Andraste I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Beta_Andraste_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Beta_Andraste/planets/Beta_Andraste_I-moons.json"
+    }
+  ]
+}

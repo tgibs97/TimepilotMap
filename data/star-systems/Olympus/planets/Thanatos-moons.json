@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Olympus",
+  "planetName": "Thanatos",
+  "planetWikiPath": "/wiki/Thanatos",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Hypnos",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Hypnos",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Hypnos",
+      "sourcePage": "Hypnos",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Olympus"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Thanatos"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.25 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

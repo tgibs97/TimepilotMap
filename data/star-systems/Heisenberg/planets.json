@@ -1,0 +1,643 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Heisenberg",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg",
+  "sourcePage": "Heisenberg",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Heisenberg"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Heisenberg I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Heisenberg_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_I",
+      "sourcePage": "Heisenberg I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Hot Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.96 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Heisenberg_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_II",
+      "sourcePage": "Heisenberg II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate (7)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate (5)"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Ecological Consortium; Psychotropic Biota"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Heisenberg_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_III",
+      "sourcePage": "Heisenberg III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.61 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Aeriform Life; Amphibious Foothold"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Heisenberg_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_IV",
+      "sourcePage": "Heisenberg IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Active Faulting; Energetic Rifting; Sonorous Lithosphere"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Heisenberg_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_V",
+      "sourcePage": "Heisenberg V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.73 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "EXTR M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Slushy Subsurface Seas; Sonorous Lithosphere"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Heisenberg_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_VI",
+      "sourcePage": "Heisenberg VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.96 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 3,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Heisenberg_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_VII",
+      "sourcePage": "Heisenberg VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.56 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Heisenberg_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_VIII",
+      "sourcePage": "Heisenberg VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "2.33 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Strong"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Heisenberg_IX",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_IX",
+      "sourcePage": "Heisenberg IX",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.37 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_IX-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Heisenberg X",
+      "orbitIndex": 10,
+      "wikiPath": "/wiki/Heisenberg_X",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Heisenberg_X",
+      "sourcePage": "Heisenberg X",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Heisenberg"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.10 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Heisenberg/planets/Heisenberg_X-moons.json"
+    }
+  ]
+}

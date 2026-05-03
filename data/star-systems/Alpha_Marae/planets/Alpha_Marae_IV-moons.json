@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Alpha Marae",
+  "planetName": "Alpha Marae IV",
+  "planetWikiPath": "/wiki/Alpha_Marae_IV",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Alpha Marae IV-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Alpha_Marae_IV-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Marae_IV-a",
+      "sourcePage": "Alpha Marae IV-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Marae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Alpha Marae IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.20 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Alpha Marae IV-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Alpha_Marae_IV-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Alpha_Marae_IV-b",
+      "sourcePage": "Alpha Marae IV-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Alpha Marae"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Alpha Marae IV"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.51 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "STD M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Energetic Rifting"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

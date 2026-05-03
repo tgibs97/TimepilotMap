@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Bardeen",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Bardeen",
+  "sourcePage": "Bardeen",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Bardeen"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Bardeen I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Bardeen_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bardeen II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Bardeen_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bardeen III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Bardeen_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bardeen IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Bardeen_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bardeen V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Bardeen_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bardeen VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Bardeen_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Bardeen VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Bardeen_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Bardeen/planets/Bardeen_VII-moons.json"
+    }
+  ]
+}

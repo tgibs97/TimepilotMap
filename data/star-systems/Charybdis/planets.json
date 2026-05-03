@@ -1,0 +1,580 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Charybdis",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis",
+  "sourcePage": "Charybdis",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Charybdis"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Charybdis I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Charybdis_I",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_I",
+      "sourcePage": "Charybdis I",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.54 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Charybdis_II",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_II",
+      "sourcePage": "Charybdis II",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.15 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Abundant"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Abundant"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Charybdis_III",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_III",
+      "sourcePage": "Charybdis III",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Marginal"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Biological"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Charybdis_IV",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_IV",
+      "sourcePage": "Charybdis IV",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.83 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Primordial"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Slushy Subsurface Seas"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Charybdis_V",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_V",
+      "sourcePage": "Charybdis V",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.47 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Std O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Charybdis_VI",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VI",
+      "sourcePage": "Charybdis VI",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.79 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Frozen"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Extra N₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Powerful"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Charybdis_VII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VII",
+      "sourcePage": "Charybdis VII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "3.27 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 4,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Charybdis_VIII",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_VIII",
+      "sourcePage": "Charybdis VIII",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "4.04 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Extreme"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 2,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Charybdis IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Charybdis_IX",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Charybdis_IX",
+      "sourcePage": "Charybdis IX",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Charybdis"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.18 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Charybdis/planets/Charybdis_IX-moons.json"
+    }
+  ]
+}

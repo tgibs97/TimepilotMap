@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Volii",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Volii",
+  "sourcePage": "Volii",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Volii"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Volii Beta",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Volii_Beta",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Beta",
+      "sourcePage": "Volii Beta",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.58 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Scorched"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Volii/planets/Volii_Beta-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Volii Alpha",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Volii_Alpha",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Alpha",
+      "sourcePage": "Volii Alpha",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.47 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "High O₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Volii/planets/Volii_Alpha-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Volii Epsilon",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Volii_Epsilon",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Epsilon",
+      "sourcePage": "Volii Epsilon",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": ".46 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Primordial"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Sentient Microbial Colonies"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Volii/planets/Volii_Epsilon-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Volii Tau",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Volii_Tau",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Tau",
+      "sourcePage": "Volii Tau",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "1.37 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Volii/planets/Volii_Tau-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Volii Omega",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Volii_Omega",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Omega",
+      "sourcePage": "Volii Omega",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Gas Giant"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "4.93 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "H₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Massive"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 1,
+      "moonsPath": "data/star-systems/Volii/planets/Volii_Omega-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Volii Chi",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Volii_Chi",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Volii_Chi",
+      "sourcePage": "Volii Chi",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Volii"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": ".29 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Heavy Metal"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok",
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Volii/planets/Volii_Chi-moons.json"
+    }
+  ]
+}

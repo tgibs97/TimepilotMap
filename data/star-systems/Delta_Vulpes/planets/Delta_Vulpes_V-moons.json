@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Delta Vulpes",
+  "planetName": "Delta Vulpes V",
+  "planetWikiPath": "/wiki/Delta_Vulpes_V",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Delta Vulpes V-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Delta_Vulpes_V-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_V-a",
+      "sourcePage": "Delta Vulpes V-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Delta Vulpes V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.16 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Delta Vulpes V-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Delta_Vulpes_V-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_V-b",
+      "sourcePage": "Delta Vulpes V-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Delta Vulpes V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.03 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Delta Vulpes V-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Delta_Vulpes_V-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_V-c",
+      "sourcePage": "Delta Vulpes V-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Delta Vulpes V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.38 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin CO₂"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Very Weak"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Primordial (3)"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Delta Vulpes V-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Delta_Vulpes_V-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_V-d",
+      "sourcePage": "Delta Vulpes V-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Delta Vulpes V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Delta Vulpes V-e",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Delta_Vulpes_V-e",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Delta_Vulpes_V-e",
+      "sourcePage": "Delta Vulpes V-e",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Delta Vulpes"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Delta Vulpes V"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.06 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

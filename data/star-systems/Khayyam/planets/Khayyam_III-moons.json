@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Khayyam",
+  "planetName": "Khayyam III",
+  "planetWikiPath": "/wiki/Khayyam_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Khayyam III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Khayyam_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_III-a",
+      "sourcePage": "Khayyam III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.09 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Khayyam III-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Khayyam_III-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_III-b",
+      "sourcePage": "Khayyam III-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.07 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Bolide Bombardment"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Khayyam III-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Khayyam_III-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Khayyam_III-c",
+      "sourcePage": "Khayyam III-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Khayyam"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Khayyam III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Barren"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Cold"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Decaran",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Decaran",
+  "sourcePage": "Decaran",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Decaran"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Decaran I",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Decaran_I",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_I-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran II",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Decaran_II",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_II-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran III",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Decaran_III",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_III-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran IV",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Decaran_IV",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_IV-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran V",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Decaran_V",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_V-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran VI",
+      "orbitIndex": 6,
+      "wikiPath": "/wiki/Decaran_VI",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_VI-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran VII",
+      "orbitIndex": 7,
+      "wikiPath": "/wiki/Decaran_VII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_VII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran VIII",
+      "orbitIndex": 8,
+      "wikiPath": "/wiki/Decaran_VIII",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_VIII-moons.json"
+    },
+    {
+      "type": "planet",
+      "name": "Decaran IX",
+      "orbitIndex": 9,
+      "wikiPath": "/wiki/Decaran_IX",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Decaran/planets/Decaran_IX-moons.json"
+    }
+  ]
+}

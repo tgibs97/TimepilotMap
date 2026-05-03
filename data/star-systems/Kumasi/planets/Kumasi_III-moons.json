@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Kumasi",
+  "planetName": "Kumasi III",
+  "planetWikiPath": "/wiki/Kumasi_III",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Kumasi III-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Kumasi_III-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Kumasi_III-a",
+      "sourcePage": "Kumasi III-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Kumasi"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Kumasi III"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Asteroid"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.05 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "COld"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Unknown"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}

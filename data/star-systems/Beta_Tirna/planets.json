@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Beta Tirna",
+  "sourceUrl": "https://starfield.fandom.com/wiki/Beta_Tirna",
+  "sourcePage": "Beta Tirna",
+  "parseStatus": "ok",
+  "star": {
+    "type": "star",
+    "name": "Beta Tirna"
+  },
+  "planets": [
+    {
+      "type": "planet",
+      "name": "Tirna B",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Tirna_B",
+      "infoStatus": "error: The page you specified doesn't exist.",
+      "generalInfo": [],
+      "moonCount": 0,
+      "moonsPath": "data/star-systems/Beta_Tirna/planets/Tirna_B-moons.json"
+    }
+  ]
+}

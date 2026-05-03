@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-05-03T15:31:40.426Z",
+  "systemName": "Tau Ceti",
+  "planetName": "Tau Ceti VIII",
+  "planetWikiPath": "/wiki/Tau_Ceti_VIII",
+  "moons": [
+    {
+      "type": "moon",
+      "name": "Tau Ceti VIII-a",
+      "orbitIndex": 1,
+      "wikiPath": "/wiki/Tau_Ceti_VIII-a",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Tau_Ceti_VIII-a",
+      "sourcePage": "Tau Ceti VIII-a",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Tau Ceti"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Tau Ceti VIII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.11 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Tau Ceti VIII-b",
+      "orbitIndex": 2,
+      "wikiPath": "/wiki/Tau_Ceti_VIII-b",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Tau_Ceti_VIII-b",
+      "sourcePage": "Tau Ceti VIII-b",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Tau Ceti"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Tau Ceti VIII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Rock"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.57 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Temperate"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "Thin M"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "Average"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "Moderate"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "Moderate"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Chemical"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Ecological Consortium; Psychotropic Biota"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Tau Ceti VIII-c",
+      "orbitIndex": 3,
+      "wikiPath": "/wiki/Tau_Ceti_VIII-c",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Tau_Ceti_VIII-c",
+      "sourcePage": "Tau Ceti VIII-c",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Tau Ceti"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Tau Ceti VIII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": ".31 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "Coralline Landmass"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Tau Ceti VIII-d",
+      "orbitIndex": 4,
+      "wikiPath": "/wiki/Tau_Ceti_VIII-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Tau_Ceti_VIII-d",
+      "sourcePage": "Tau Ceti VIII-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Tau Ceti"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Tau Ceti VIII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    },
+    {
+      "type": "moon",
+      "name": "Tau Ceti VIII-d",
+      "orbitIndex": 5,
+      "wikiPath": "/wiki/Tau_Ceti_VIII-d",
+      "sourceUrl": "https://starfield.fandom.com/wiki/Tau_Ceti_VIII-d",
+      "sourcePage": "Tau Ceti VIII-d",
+      "generalInfo": [
+        {
+          "key": "system",
+          "label": "System",
+          "value": "Tau Ceti"
+        },
+        {
+          "key": "orbits",
+          "label": "Orbiting",
+          "value": "Tau Ceti VIII"
+        },
+        {
+          "key": "type",
+          "label": "Type",
+          "value": "Ice"
+        },
+        {
+          "key": "gravity",
+          "label": "Gravity",
+          "value": "0.14 G"
+        },
+        {
+          "key": "temp",
+          "label": "Temperature",
+          "value": "Deep Freeze"
+        },
+        {
+          "key": "atmosphere",
+          "label": "Atmosphere",
+          "value": "None"
+        },
+        {
+          "key": "magneto",
+          "label": "Magnetosphere",
+          "value": "None"
+        },
+        {
+          "key": "fauna",
+          "label": "Fauna",
+          "value": "None"
+        },
+        {
+          "key": "flora",
+          "label": "Flora",
+          "value": "None"
+        },
+        {
+          "key": "water",
+          "label": "Water",
+          "value": "Safe"
+        },
+        {
+          "key": "traits",
+          "label": "Traits",
+          "value": "None"
+        }
+      ],
+      "infoStatus": "ok"
+    }
+  ]
+}
