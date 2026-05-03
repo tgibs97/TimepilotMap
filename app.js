@@ -30,6 +30,9 @@
   const settingsClose = document.getElementById("settings-close");
   const settingsModal = document.getElementById("settings-modal");
   const sectorGridToggle = document.getElementById("sector-grid-toggle");
+  const fieldInfoPanel = document.getElementById("field-info-panel");
+  const fieldInfoTitle = document.getElementById("field-info-title");
+  const fieldInfoCopy = document.getElementById("field-info-copy");
   const travelOpen = document.getElementById("travel-open");
   const travelClear = document.getElementById("travel-clear");
   const travelAdd = document.getElementById("travel-add");
@@ -49,7 +52,6 @@
     sector: document.getElementById("detail-sector"),
     faction: document.getElementById("detail-faction"),
     spectralClass: document.getElementById("detail-spectral-class"),
-    catalogueId: document.getElementById("detail-catalogue-id"),
     temperature: document.getElementById("detail-temperature"),
     mass: document.getElementById("detail-mass"),
     radius: document.getElementById("detail-radius"),
@@ -57,6 +59,50 @@
     planets: document.getElementById("detail-planets"),
     moons: document.getElementById("detail-moons"),
     source: document.getElementById("detail-source")
+  };
+
+  const fieldInfo = {
+    faction: {
+      title: "Faction",
+      copy: "The political group, settlement authority, or controlling organization associated with the system. Systems marked None are not tied to a major faction on the source wiki."
+    },
+    spectralClass: {
+      title: "Spectral Class",
+      copy: [
+        "A shorthand classification for the system star based mainly on color and temperature.",
+        "O: dark blue; about 28,000-50,000 K; extremely hot stars with heavily ionized atoms, especially helium.",
+        "B: blue; about 10,000-28,000 K; hot stars with neutral helium and some hydrogen.",
+        "A: light blue to white; about 7,500-10,000 K; strong hydrogen lines and some ionized metals.",
+        "F: white; about 6,000-7,500 K; hydrogen plus ionized metals such as calcium and iron.",
+        "G: yellow; about 5,000-6,000 K; Sun-like stars with ionized calcium and both neutral and ionized metals.",
+        "K: orange; about 3,500-5,000 K; cooler stars with neutral metals.",
+        "M: red; about 2,500-3,500 K; cool red stars with neutral atoms."
+      ]
+    },
+    temperature: {
+      title: "Temperature",
+      copy: "The approximate surface temperature of the system star, shown in Kelvin where available."
+    },
+    mass: {
+      title: "Mass",
+      copy: "The star's mass relative to the Sun. A value near 1.00 SM is roughly solar mass; lower values are lighter, higher values are heavier."
+    },
+    radius: {
+      title: "Radius",
+      copy: "The listed radius of the system star in kilometers. Larger values generally indicate a physically larger star."
+    },
+    magnitude: {
+      title: "Magnitude",
+      copy: "A brightness measurement for the star. Lower magnitude values are brighter; higher values are dimmer."
+    },
+    planets: {
+      title: "Planets",
+      copy: "The number of planets listed in the system."
+    },
+    moons: {
+      title: "Moons",
+      copy: "The number of moons listed across the system's planets."
+    }
   };
 
   // Fast lookup tables let route rendering and detail panels avoid repeated scans.
@@ -176,11 +222,64 @@
     sectorGridLayer.appendChild(fragment);
   }
 
+  function parseNumericValue(value) {
+    if (!value) return null;
+    const match = String(value).replaceAll(",", "").match(/-?\d+(?:\.\d+)?/);
+    return match ? Number(match[0]) : null;
+  }
+
+  function colorForTemperature(temperature, spectralClass, fallbackColor) {
+    const spectralType = spectralClass && spectralClass.trim().charAt(0).toUpperCase();
+
+    if (Number.isFinite(temperature)) {
+      if (temperature >= 28000) return "#5f6fff";
+      if (temperature >= 10000) return "#9bbcff";
+      if (temperature >= 7500) return "#d7e6ff";
+      if (temperature >= 6000) return "#fff7ef";
+      if (temperature >= 5000) return "#ffe457";
+      if (temperature >= 3500) return "#ffad2f";
+      if (temperature >= 2500) return "#ff4a2f";
+    }
+
+    const spectralColors = {
+      O: "#5f6fff",
+      B: "#9bbcff",
+      A: "#d7e6ff",
+      F: "#fff7ef",
+      G: "#ffe457",
+      K: "#ffad2f",
+      M: "#ff4a2f"
+    };
+
+    return spectralColors[spectralType] || fallbackColor;
+  }
+
+  function systemVisuals(system) {
+    const details = wikiDetails[system.name] || {};
+    const fallbackColor = colors[system.group] || colors.blue;
+    const temperature = parseNumericValue(details.temperature);
+    const magnitude = parseNumericValue(details.magnitude);
+    const color = colorForTemperature(temperature, details.spectralClass, fallbackColor);
+    const baseRadius = system.size || 5;
+
+    if (!Number.isFinite(magnitude)) {
+      return { color, radius: baseRadius, opacity: 0.9 };
+    }
+
+    // Lower magnitude means visually brighter, so invert the scale into radius/opacity.
+    const brightness = Math.min(1, Math.max(0.35, (12 - magnitude) / 12));
+    return {
+      color,
+      radius: Math.max(baseRadius, baseRadius * (0.85 + brightness * 0.55)),
+      opacity: 0.5 + brightness * 0.5
+    };
+  }
+
   function drawSystems() {
     const fragment = document.createDocumentFragment();
 
     data.systems.forEach((system) => {
-      const color = colors[system.group] || colors.blue;
+      const visual = systemVisuals(system);
       const group = createSvgElement("g", {
         class: "system",
         tabindex: 0,
@@ -188,7 +287,7 @@
         "aria-label": `${system.name}, rating ${system.rating}`
       });
 
-      const radius = system.size || 5;
+      const radius = visual.radius;
       const hit = createSvgElement("circle", {
         class: "system-hit",
         cx: system.x,
@@ -200,7 +299,8 @@
         cx: system.x,
         cy: system.y,
         r: radius,
-        fill: color
+        fill: visual.color,
+        opacity: visual.opacity
       });
       const labelX = Number.isFinite(system.labelDx) ? system.x + system.labelDx : system.x + radius + 8;
       const labelY = Number.isFinite(system.labelDy) ? system.y + system.labelDy : system.y + 4;
@@ -237,6 +337,14 @@
 
   function fieldValue(details, key) {
     return details[key] || "Unknown";
+  }
+
+  function radiusValue(details) {
+    const radius = fieldValue(details, "radius");
+    if (radius === "Unknown") return radius;
+
+    const numericRadius = Number(radius.replaceAll(",", ""));
+    return Number.isFinite(numericRadius) ? `${numericRadius.toLocaleString()} km` : `${radius} km`;
   }
 
   function distanceBetween(fromName, toName) {
@@ -345,17 +453,16 @@
     });
 
     const systemWikiDetails = wikiDetails[system.name] || {};
-    const color = colors[system.group] || colors.blue;
+    const color = systemVisuals(system).color;
     detail.swatch.style.background = color;
     detail.swatch.style.color = color;
     detail.name.textContent = system.name;
     detail.sector.textContent = sectorFor(system);
     detail.faction.textContent = fieldValue(systemWikiDetails, "faction");
     detail.spectralClass.textContent = fieldValue(systemWikiDetails, "spectralClass");
-    detail.catalogueId.textContent = fieldValue(systemWikiDetails, "catalogueId");
     detail.temperature.textContent = fieldValue(systemWikiDetails, "temperature");
     detail.mass.textContent = fieldValue(systemWikiDetails, "mass");
-    detail.radius.textContent = fieldValue(systemWikiDetails, "radius");
+    detail.radius.textContent = radiusValue(systemWikiDetails);
     detail.magnitude.textContent = fieldValue(systemWikiDetails, "magnitude");
     detail.planets.textContent = fieldValue(systemWikiDetails, "planets");
     detail.moons.textContent = fieldValue(systemWikiDetails, "moons");
@@ -363,6 +470,7 @@
 
     emptyPanel.classList.add("hidden");
     travelPanel.classList.add("hidden");
+    closeFieldInfo();
     systemCard.classList.remove("hidden");
   }
 
@@ -654,6 +762,40 @@
     settingsOpen.focus();
   }
 
+  function openFieldInfo(field) {
+    const info = fieldInfo[field];
+    if (!info) return;
+
+    fieldInfoTitle.textContent = info.title;
+    fieldInfoCopy.replaceChildren();
+
+    if (Array.isArray(info.copy)) {
+      const intro = document.createElement("p");
+      const list = document.createElement("ul");
+      intro.textContent = info.copy[0];
+      info.copy.slice(1).forEach((item) => {
+        const listItem = document.createElement("li");
+        listItem.textContent = item;
+        list.appendChild(listItem);
+      });
+      fieldInfoCopy.append(intro, list);
+    } else {
+      const paragraph = document.createElement("p");
+      paragraph.textContent = info.copy;
+      fieldInfoCopy.appendChild(paragraph);
+    }
+
+    fieldInfoPanel.classList.remove("hidden");
+    document.querySelectorAll("[data-info-field]").forEach((card) => {
+      card.classList.toggle("is-info-active", card.dataset.infoField === field);
+    });
+  }
+
+  function closeFieldInfo() {
+    fieldInfoPanel.classList.add("hidden");
+    document.querySelectorAll("[data-info-field]").forEach((card) => card.classList.remove("is-info-active"));
+  }
+
   function filterSystems(query) {
     const normalized = query.trim().toLowerCase();
 
@@ -734,9 +876,20 @@
   settingsModal.addEventListener("click", (event) => {
     if (event.target === settingsModal) closeSettings();
   });
+  document.querySelectorAll("[data-info-field]").forEach((field) => {
+    field.addEventListener("click", () => openFieldInfo(field.dataset.infoField));
+    field.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        openFieldInfo(field.dataset.infoField);
+      }
+    });
+  });
   sectorGridToggle.addEventListener("change", (event) => setSectorGridVisible(event.target.checked));
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape" && !settingsModal.classList.contains("hidden")) closeSettings();
+    if (event.key !== "Escape") return;
+    if (!fieldInfoPanel.classList.contains("hidden")) closeFieldInfo();
+    if (!settingsModal.classList.contains("hidden")) closeSettings();
   });
   searchInput.addEventListener("input", (event) => filterSystems(event.target.value));
 

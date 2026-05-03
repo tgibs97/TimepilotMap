@@ -85,43 +85,44 @@
           </div>
 
           <dl class="system-stats">
-            <div>
+            <div data-info-field="faction" role="button" tabindex="0">
               <dt>Faction</dt>
               <dd id="detail-faction"></dd>
             </div>
-            <div>
+            <div data-info-field="spectralClass" role="button" tabindex="0">
               <dt>Spectral Class</dt>
               <dd id="detail-spectral-class"></dd>
             </div>
-            <div>
-              <dt>Catalogue ID</dt>
-              <dd id="detail-catalogue-id"></dd>
-            </div>
-            <div>
+            <div data-info-field="temperature" role="button" tabindex="0">
               <dt>Temperature</dt>
               <dd id="detail-temperature"></dd>
             </div>
-            <div>
+            <div data-info-field="mass" role="button" tabindex="0">
               <dt>Mass</dt>
               <dd id="detail-mass"></dd>
             </div>
-            <div>
+            <div data-info-field="radius" role="button" tabindex="0">
               <dt>Radius</dt>
               <dd id="detail-radius"></dd>
             </div>
-            <div>
+            <div data-info-field="magnitude" role="button" tabindex="0">
               <dt>Magnitude</dt>
               <dd id="detail-magnitude"></dd>
             </div>
-            <div>
+            <div data-info-field="planets" role="button" tabindex="0">
               <dt>Planets</dt>
               <dd id="detail-planets"></dd>
             </div>
-            <div>
+            <div data-info-field="moons" role="button" tabindex="0">
               <dt>Moons</dt>
               <dd id="detail-moons"></dd>
             </div>
           </dl>
+
+          <section class="field-info-inline hidden" id="field-info-panel" aria-live="polite">
+            <h3 id="field-info-title">Field Info</h3>
+            <p id="field-info-copy"></p>
+          </section>
         </article>
 
         <article class="travel-panel hidden" id="travel-panel" aria-live="polite">
@@ -143,6 +144,7 @@
           <div class="travel-legs" id="travel-legs"></div>
           <button class="travel-add hidden" id="travel-add" type="button">Add route</button>
         </article>
+
       </aside>
     </main>
 
