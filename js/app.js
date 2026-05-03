@@ -27,6 +27,7 @@ let systemViewTransform = { x: 0, y: 0, scale: 1 };
 let pointer = null;
 let systemViewPointer = null;
 let travelState = { active: false, start: null, end: null, mode: "charted", legs: [] };
+const TRAVEL_ROUTE_REPEAT_OFFSET = 7;
 
 // Keep all rendered map layers in sync with the current pan/zoom state.
 function updateTransform() {
@@ -511,16 +512,90 @@ function setTravelEndpoint(name, className) {
   if (el) el.classList.add(className);
 }
 
+function travelSegmentKey(fromName, toName) {
+  return [fromName, toName].sort().join("::");
+}
+
+function travelSegmentOffset(fromName, toName, distance) {
+  if (!distance) return { x: 0, y: 0 };
+
+  const [startName, endName] = [fromName, toName].sort();
+  const start = byName.get(startName);
+  const end = byName.get(endName);
+  if (!start || !end) return { x: 0, y: 0 };
+
+  const dx = end.x - start.x;
+  const dy = end.y - start.y;
+  const length = Math.hypot(dx, dy);
+  if (!length) return { x: 0, y: 0 };
+
+  // Use canonical endpoint order so opposite-direction repeats still separate instead of crossing back over.
+  return {
+    x: (-dy / length) * distance,
+    y: (dx / length) * distance
+  };
+}
+
+function collectTravelSegments() {
+  const segments = [];
+
+  travelState.legs.forEach((leg) => {
+    if (leg.charted) {
+      for (let i = 0; i < leg.path.length - 1; i += 1) {
+        segments.push({
+          fromName: leg.path[i],
+          toName: leg.path[i + 1],
+          className: "travel-route"
+        });
+      }
+      return;
+    }
+
+    segments.push({
+      fromName: leg.start,
+      toName: leg.end,
+      className: "travel-route travel-route-uncharted"
+    });
+  });
+
+  return segments;
+}
+
+function renderTravelSegments() {
+  const segments = collectTravelSegments();
+  const segmentTotals = new Map();
+  const renderedSegments = new Map();
+
+  segments.forEach((segment) => {
+    const key = travelSegmentKey(segment.fromName, segment.toName);
+    segmentTotals.set(key, (segmentTotals.get(key) || 0) + 1);
+  });
+
+  segments.forEach((segment) => {
+    const key = travelSegmentKey(segment.fromName, segment.toName);
+    const index = renderedSegments.get(key) || 0;
+    const center = (segmentTotals.get(key) - 1) / 2;
+
+    renderedSegments.set(key, index + 1);
+    // Center the offset spread so repeat routes fan out without moving single-use legs.
+    const offset = (index - center) * TRAVEL_ROUTE_REPEAT_OFFSET;
+    renderTravelSegment(segment.fromName, segment.toName, segment.className, offset);
+  });
+}
+
 // Travel route overlays are drawn in map coordinates so they pan/zoom with systems.
-function renderTravelSegment(fromName, toName, className) {
+function renderTravelSegment(fromName, toName, className, offsetDistance = 0) {
   const from = byName.get(fromName);
   const to = byName.get(toName);
+  if (!from || !to) return;
+
+  const offset = travelSegmentOffset(fromName, toName, offsetDistance);
   dom.travelRouteLayer.appendChild(createSvgElement("line", {
     class: className,
-    x1: from.x,
-    y1: from.y,
-    x2: to.x,
-    y2: to.y
+    x1: from.x + offset.x,
+    y1: from.y + offset.y,
+    x2: to.x + offset.x,
+    y2: to.y + offset.y
   }));
 }
 
@@ -610,16 +685,7 @@ function renderTravelChain() {
   dom.travelRouteLayer.replaceChildren();
   dom.travelDetail.legs.replaceChildren();
 
-  travelState.legs.forEach((leg) => {
-    if (leg.charted) {
-      for (let i = 0; i < leg.path.length - 1; i += 1) {
-        renderTravelSegment(leg.path[i], leg.path[i + 1], "travel-route");
-      }
-      return;
-    }
-
-    renderTravelSegment(leg.start, leg.end, "travel-route travel-route-uncharted");
-  });
+  renderTravelSegments();
 
   travelState.legs.forEach((leg, index) => {
     dom.travelDetail.legs.appendChild(createTravelLegCard(leg, index));
